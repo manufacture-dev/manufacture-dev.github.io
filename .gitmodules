@@ -1,7 +1,3 @@
 [submodule "themes/vex-hugo"]
 	path = themes/vex-hugo
 	url = git@github.com:norrecraft/vex-hugo.git
-[submodule "public"]
-	path = public
-	url = git@github.com:manufacture-dev/manufacture-dev.github.io.git
-	branch = main
