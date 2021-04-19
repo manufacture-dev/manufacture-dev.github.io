@@ -12,8 +12,4 @@ Navigate to the website at http://localhost:1313/.
 
 ## Deployment on GitHub pages
 
-Simply execute the `deploy.sh` script
-
-```
-$ ./deploy.sh
-```
+Simply commit to `main` branch for redeploying the website on GitHub Pages using GitHub Actions.
