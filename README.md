@@ -1,4 +1,4 @@
-# Brigade website
+# Manufacture website
 
 ## On local environement
 

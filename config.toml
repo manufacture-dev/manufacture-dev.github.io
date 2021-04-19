@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://brigade.dev/"
-title = "Brigade | Technical coaching for efficient teams"
+baseurl = "https://manufacture.dev/"
+title = "Manufacture | Technical coaching for efficient organisations"
 theme = "vex-hugo"
 DefaultContentLanguage = "fr"
 # post excert
@@ -74,7 +74,7 @@ weight = 4
 logo = "images/logo.svg"
 logo_width = "250px"
 # Meta data
-description = "Brigade | Technical coaching for efficient teams"
+description = "Manufacture | Technical coaching for efficient organisations"
 author = "Themefisher"
 # currency
 currency = "$"
