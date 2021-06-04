@@ -5,8 +5,6 @@ theme = "vex-hugo"
 DefaultContentLanguage = "fr"
 # post excert
 summarylength = "20"
-# google analytics
-googleAnalytics = "G-87WS9SWBT6"
 # disable language
 disableLanguages = [] # disable language from here
 
