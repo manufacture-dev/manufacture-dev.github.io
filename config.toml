@@ -6,7 +6,7 @@ DefaultContentLanguage = "fr"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "G-87WS9SWBT6"
 # disable language
 disableLanguages = [] # disable language from here
 
