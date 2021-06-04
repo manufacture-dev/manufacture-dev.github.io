@@ -96,6 +96,10 @@ mailchimp_form_name = "b_2cb99a16010853288e3701c08_519268396e"
 [params.axeptio]
 clientId = "60a37fcc2b02b76714856cff"
 
+# Google Tag Manager
+[params.gtm]
+id = "GTM-NHGP6S9"
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
