@@ -29,8 +29,6 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "//js.hs-scripts.com/7986279.js"
 
 
 ###################################### Navigation ######################################
