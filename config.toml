@@ -101,7 +101,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Manufacture"
 
 
 ################################### French language #####################################
@@ -111,4 +111,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Manufacture"
