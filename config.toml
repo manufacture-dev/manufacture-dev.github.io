@@ -27,10 +27,6 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cmp.osano.com/16CVswSZNTnOw2Am3/8e82be3c-c512-4382-9411-240ca93981f6/osano.js"
-[[params.plugins.js]]
-link = "//js.hs-scripts.com/7986279.js"
 
 
 ###################################### Navigation ######################################
