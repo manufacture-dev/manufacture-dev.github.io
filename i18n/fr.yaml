@@ -7,8 +7,8 @@
 - id: "contact"
   translation: "Contact"
 
-- id: "terms-conditions"
-  translation: "Termes & Conditions"
+- id: "legal-notice"
+  translation: "Mentions légales"
 
 - id: "privacy-policy"
   translation: "Politique de Confidentialité"

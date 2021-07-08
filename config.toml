@@ -55,8 +55,8 @@ URL = "contact"
 weight = 2
 
 [[menu.footer]]
-name = "terms-conditions"
-URL = "terms-conditions"
+name = "legal-notice"
+URL = "legal-notice"
 weight = 3
 
 [[menu.footer]]
