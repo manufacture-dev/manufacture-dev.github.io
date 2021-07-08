@@ -1,3 +1,3 @@
-[submodule "themes/vex-hugo"]
-	path = themes/vex-hugo
-	url = git@github.com:norrecraft/vex-hugo.git
+[submodule "themes/terracotta"]
+	path = themes/terracotta
+	url = git@github.com:manufacture-dev/terracotta.git

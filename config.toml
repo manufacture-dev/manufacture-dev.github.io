@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "https://manufacture.dev/"
 title = "Manufacture | Technical coaching for efficient organisations"
-theme = "vex-hugo"
+theme = "terracotta"
 DefaultContentLanguage = "fr"
 # post excert
 summarylength = "20"

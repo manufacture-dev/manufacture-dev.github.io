@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo -t vex-hugo --minify
+        run: hugo -t terracotta --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
