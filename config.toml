@@ -37,11 +37,11 @@ name = "home"
 URL = "/"
 weight = 1
 
-[[menu.main]]
-name = "review"
-pre = "#"
-URL = "testimonial"
-weight = 4
+#[[menu.main]]
+#name = "review"
+#pre = "#"
+#URL = "testimonial"
+#weight = 4
 
 [[menu.main]]
 name = "contact"
