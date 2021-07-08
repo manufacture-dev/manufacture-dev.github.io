@@ -1,110 +1,107 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "Develop with your teams their mastery of code and delivery to increase the impact capacity of your products."
+  content : "We are technical coaches who support the skills development of your teams by working in immersion with them directly on their code base."
   image : "images/promise.png"
   button:
    enable : true
-   label : "Browse All Products"
-   link : "products"
+   label : "Contact us"
+   link : "contact"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
+  title : "Our Approach: \"Working with the teams\""
   image : "images/approach.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Work in immersion"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We work directly within the teams on their code base"
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Give back control of the code"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We implement good development practices and tools with the teams"
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Reliable delivery"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We reduce feedback time by improving delivery processes"
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Gain autonomy"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We make the teams operational on all the skills learned"
 
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Support change"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We start by unlearning to promote team learning"
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Look for a systemic impact"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We focus on teams to seek lasting change"
 
 
 ############################# promo ############################
 promo:
   enable : true
   image : "images/commitment.svg"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Our Commitment: concrete and measurable results"
+  content : "Raising the bar is not an end for us, but only a way to improve the performance of your teams.
+  We do not use maturity indicators and prefer to rely on tangible measures of the performance of your teams.
+  We are based on the 2019 Accelerate State of DevOps study which identifies the 4 key metrics for measuring the performance of development teams:
+  - Deployment Frequency
+  - Lead Time for Changes
+  - Change Failure Rate
+  - Time to Restore Service"
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Our Approach: increase the team's capacity to deliver value"
   items:
     # about product item loop
     - image : "images/master.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "MASTER"
+      content : "Master your code and pipeline to deliver better and faster products and services"
       button:
         enable : false
-        label : "Check Features"
+        label : "More details"
         link : "#"
         
     # about product item loop
     - image : "images/deliver.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "DELIVER"
+      content : "Automate processes to deliver and deploy applications / services in production, in the hands of users, on a regular, frequent, and sustainable basis"
       button:
         enable : false
-        label : "Check Features"
+        label : "More details"
         link : "#"
         
     # about product item loop
     - image : "images/impact.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "IMPACT"
+      content : "Bring value to customers, continuously enrich the application, retain talent through regular and frequent deployment and mastery of its code and delivery"
       button:
         enable : false
-        label : "Check Features"
+        label : "More details"
         link : "#"
 
 
 #################################### Products ########################
 products:
   enable : false
-  title : "Checkout Our All Products"
+  title : "Discover Our Offers"
 
 
 ################################## Subscription ###################
@@ -112,14 +109,14 @@ subscription:
   enable : true
   bg_image : "images/call-to-action.jpg"
   title : "Stay Informed"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content : "Leave us your e-mail address and we will get back to you"
   placeholder : "Your Email Address Here"
 
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Our references"
   testimonial_item:
     # testimonial item loop
     - name : "Jonathon Andrew"
