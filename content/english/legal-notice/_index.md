@@ -1,6 +1,5 @@
 ---
 title: "Legal Notice"
-description : "this is a meta description"
 draft: false
 ---
 

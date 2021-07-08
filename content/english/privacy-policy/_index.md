@@ -1,6 +1,7 @@
 ---
 title: "Privacy policy"
-description : "this is a meta description"
+cookieConsent:
+    url: "javascript:openAxeptioCookies()"
 draft: false
 ---
 
@@ -139,7 +140,7 @@ You can accept or refuse these Cookies the first time you browse the Website.
 
 Your choices to accept or refuse these Cookies will be retained for a period of six (6) months.
 
-You are free to withdraw your consent and more generally to change your preferences at any time via [the following link](FIXME).
+You are free to withdraw your consent and more generally to change your preferences at any time via [the following link]({{< param "cookieConsent.url" >}}).
 
 ##### **Your browser settings**
 
