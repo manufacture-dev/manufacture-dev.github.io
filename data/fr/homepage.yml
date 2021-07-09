@@ -1,137 +1,166 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Développer avec vos équipes leur maîtrise du code et du delivery pour démultiplier la capacité d’impact de vos produits."
-  content : "Nous sommes des coachs techniques qui accompagnons la montée en compétences de vos équipes en travaillant en immersion avec elles directement sur leur base de code."
+  title : "Coaching technique au service d'organisations efficientes"
+  description : "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer. C'est ce qui différencie les entreprises qui ont de l'impact des autres ! "
+  observation : "C'est ce qui différencie les entreprises qui ont de l'impact des autres !"
+  content : "Chez Manufacture, nous augmentons la capacité d'impact de vos produits auprès de vos utilisateurs en accompagnant vos équipes à livrer de façon régulière, fréquente et efficiente des produits de qualité."
   image : "images/promise.png"
   button:
    enable : true
-   label : "Nous contacter"
+   label : "Parlons-en"
    link : "contact"
 
-############################# Feature ############################
-features:
-  enable : true
-  title : "Notre Démarche : \"Faire avec les équipes\""
-  image : "images/approach.png"
 
-  # feature at the left of the image
+############################# Target ############################
+target:
+  enable: true
+  title: "Nous contribuons à réaliser les ambitions de votre entreprise"
+  description: "C'est la combinaison d'une culture agile et de bonnes pratiques qui participent à rendre une organisation plus efficiente durablement."
+  legend: "Chez Manufacture, nous cultivons cette efficience en agissant sur 3 dimensions."
+  image: "images/target.png"
+  observation: "Aujourd'hui, vous faites plusieurs constats :"
+  facts:
+    - item: "il est difficile de livrer des produits de qualité dans les temps attendus"
+    - item: "le contrôle de votre IT vous semble fragile"
+    - item: "le temps consacré au support augmente et la capacité à développer de nouvelles fonctionnalités se réduit"
+    - item: "toucher au système contribue au risque de le casser"
+    - item: "les coûts pour maintenir le système actuel sont élevés et continuent d'augmenter"
+    - item: "garder vos ressources et attirer les talents sont devenus des challenges"
+    - item: "la collaboration de vos équipes s’amoindrit et se complexifie"
+  conclusion: "Il est courant qu'une telle situation se produise alors qu'une transformation est en cours ou est finalisée. Ca ne définit pas votre futur : vous avez la capacité d'y remédier."
+  solution: "En tant que coachs techniques, nous vous accompagnons sur le chemin d'une culture d'organisation générative : orientée sur la performance et donc sur l'efficience de vos équipes."
+  study:
+    content: "\"Selon une étude réalisée par DevOps Research and Assessment (DORA) (Recherches et évaluation), une culture organisationnelle basée sur une grande confiance et axée sur le flux d’informations permet de prédire les performances de livraison de logiciels et les performances technologiques organisationnelles\""
+    source: "Source: Westrum Organisation"
+  button:
+    enable: true
+    label: "En savoir plus"
+    link: "offer"
+
+
+############################# Approach ############################
+approach:
+  enable: true
+  title: "Nous faisons grandir vos équipes sur leur culture et leurs pratiques"
+  image: "images/approach.png"
+
+  master:
+    title: "Redonner la maitrise de leur code et du pipeline aux équipes :"
+    results:
+      - item: "favoriser l'engagement des équipes"
+      - item: "apprendre et approfondir les nouvelles pratiques"
+      - item: "faire gagner en autonomie"
+
+  deliver:
+    title: "La maitrise fiabilise le delivery"
+    outputs:
+      - item: "le temps de rétroaction est réduit"
+      - item: "les processus de livraison sont améliorés"
+      - item: "l'amélioration continue est entretenue"
+
+  impact:
+    title: "La maitrise rend possible l'impact systémique grâce aux équipes"
+    outcomes:
+      - item: "les équipes se partagent leurs connaissances acquises"
+      - item: "elles rayonnent au sein de l'organisation"
+      - item: "elles retrouvent de la passion pour leur métier et leur travail"
+
+
+############################# Steps ############################
+steps:
+  enable: true
+  title: "Nous intervenons en immersion au sein des équipes pour \"faire avec\" elles"
+  image: "images/steps.png"
+
+  on_top:
+    title: "Observation"
+    activities:
+      - item: "Avoir une vue d'ensemble des problématiques équipes et organisationnelles"
+      - item: "Faire le bilan des compétences et des technologies utilisées"
+      - item: "Création des assets de coaching"
+
   left_side:
-    # feature item loop
-  - title : "Travailler en immersion"
-    #icon : "tf-ion-ios-alarm-outline"
-    content : "Nous intervenons directement au sein des équipes sur leur base de code"
-    
-    # feature item loop
-  - title : "Redonner la maitrise du code"
-    #icon : "tf-ion-ios-bell-outline"
-    content : "Nous mettons en œuvre les bonnes pratiques de développement et les outils avec les équipes"
-    
-    # feature item loop
-  - title : "Fiabiliser le delivery"
-    #icon : "tf-ion-ios-cart-outline"
-    content : "Nous réduisons le temps de rétroaction en améliorant les processus de livvraison"
+    title: "Alignement"
+    activities:
+      - item: "Partager le bilan réalisé"
+      - item: "S'aligner sur les axes de travail, les équipes, le rythme et le dispositif du coaching"
+      - item: "Avoir une visibilité sur les priorité et la feuille de route"
 
-
-  # feature at the right of the image
   right_side:
-    # feature item loop
-  - title : "Faire gagner en autonomie"
-    #icon : "tf-ion-ios-alarm-outline"
-    content : "Nous rendons les équipes opérationnelles sur toutes les compétences apprises"
+    title: "Autonome"
+    activities:
+      - item: "Gérer la motivation de l'équipe (creux de l'apprentissage)"
+      - item: "Identifier les pratiques à approfondir"
+      - item: "Installer un rythme in/out pour gagner en autonmie"
+      - item: "Suivre et mentorer les équipes dans l'acquisition des pratiques"
 
-    # feature item loop
-  - title : "Accompagner le changement"
-    #icon : "tf-ion-ios-bell-outline"
-    content : "Nous commençons par désapprendre pour favoriser l'apprentissage des équipes"
+  bottom:
+    title: "Immersion"
+    activities:
+      - item: "Approfondir les pratiques (MOB, Pair, Kata, Learning Hours)"
+      - item: "Améliorer et/ou renforcer les compétences"
+      - item: "Diffuser l'apprentissage pour résoudre les problèmes systémiques (communauté, démo...)"
 
-    # feature item loop
-  - title : "Rechercher un impact systémique"
-    #icon : "tf-ion-ios-cart-outline"
-    content : "Nous nous concentrons sur les équipes pour aller chercher un changement durable"
-
-
-############################# promo ############################
-promo:
-  enable : true
-  image : "images/commitment.svg"
-  title : "Notre Engagement : des résultats concrets et mesurables"
-  content : "Elever le niveau n'est pas une finalité pour nous, mais seulement un moyen d'améliorer la performance de vos équipes. 
-  Nous n’utilisons pas d’indicateurs de maturité et préférons nous appuyer sur des mesures tangibles de la performance de vos équipes.
-            Nous nous appuyons sur l’étude Accelerate State of DevOps de 2019 qui identifie les 4 indicateurs clé de mesure de la performance des équipes de développement : 
-              - Fréquence de déploiement
-              - Délai de mise en œuvre d’un changement 
-              - Taux d’échec d’un changement
-              - Temps de restauration du service"
+  button:
+    enable: true
+    label: "Des questions sur la démarche ?"
+    link: "offer"
 
 
-############################# About Product #######################
-about_product:
-  enable : true
-  title : "Notre Approche : augmenter les capacités de l'équipe à délivrer de la valeur"
-  items:
-    # about product item loop
-    - image : "images/master.png"
-      title : "MASTER"
-      content : "Maîtriser son code et son pipeline pour délivrer des produits et service de meilleure qualité et plus vite"
-      button:
-        enable : false
-        label : "Plus de détails"
-        link : "#"
-        
-    # about product item loop
-    - image : "images/deliver.png"
-      title : "DELIVER"
-      content : "Automatiser les processus pour livrer et déployer les applications/services en production, dans les mains des utilisateurs, de manière régulière, fréquente, et durablement"
-      button:
-        enable : false
-        label : "Plus de détails"
-        link : "#"
+############################# Results ############################
+results:
+  enable: true
+  title: "Notre impact est visible et mesurable"
 
-    # about product item loop
-    - image : "images/impact.png"
-      title : "IMPACT"
-      content : "Apporter de la valeur aux clients, enrichir continuellement l’application, retenir les talents grâce au déploiement régulier et fréquent et la maîtrise de son code et delivery"
-      button:
-        enable : false
-        label : "Plus de détails"
-        link : "#"
+  team:
+    title: "Au niveau de l'équipe"
+    impacts:
+      - item: "Montée en compétences sur de nouvelles pratiques de développement"
+      - item: "Maitrise du code et delivery"
+      - item: "Passion et fierté de leur travail"
+      - item: "Collaboration améliorée, facilitée, fluidifiée avec les métiers"
+      - item: "Partage au sein de communautés (apprentissages, pratiques, succès)"
+      - item: "Culture de l’amélioration continue"
+      - item: "Très bonne compréhension du produit"
+      - item: "Plus grande capacité à livrer"
+      - item: "Meilleure maitrise de sa stack technique"
 
+  product:
+    title: "Sur les produits"
+    icon: "tf-ion-android-checkbox-outline"
+    impacts:
+      - item: "Des produits plus fiables, et de meilleure qualité"
+      - item: "Moins de bugs"
+      - item: "Des produits faciles à faire évoluer"
+      - item: "Des produits plus performants et qui répondent davantage aux besoins des utilisateurs"
+      - item: "Une maintenabilité accrue"
+      - item: "Livraison plus fréquente et régulière"
+      - item: "Moins d'échec de livraison"
 
-#################################### Products ########################
-products:
-  enable : false
-  title : "Découvrez Nos Offres"
-
-
-################################## Subscription ###################
-subscription:
-  enable : true
-  bg_image : "images/call-to-action.jpg"
-  title : "Prenons contact"
-  content : "Laissez-nous votre adresse e-mail et nous vous recontacterons"
-  placeholder : "Votre adresse e-mail ici"
-
+  organisation:
+    title: "Dans l'organisation"
+    icon: "tf-ion-android-checkbox-outline"
+    impacts:
+      - item: "Maitrise des couts"
+      - item: "Visibilité accrue"
+      - item: "Équipes impliquées"
+      - item: "Confiance dans les équipes"
+      - item: "Rayonnement interne et externe"
+      - item: "Équipes plus solides"
+      - item: "Adaptabilité accrue sur les régulations"
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Nos Références"
+  title : "Ils nous font confiance"
+
   testimonial_item:
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Orange"
+      image : "images/logo-orange.png"
+
+    - name : "Société Générale"
+      image : "images/logo-societe-generale.png"
+
+    - name : "Enedis"
+      image : "images/logo-enedis.png"
