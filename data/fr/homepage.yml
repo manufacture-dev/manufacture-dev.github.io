@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Coaching technique au service d'organisations efficientes"
-  description : "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer. C'est ce qui différencie les entreprises qui ont de l'impact des autres ! "
+  description : "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer."
   observation : "C'est ce qui différencie les entreprises qui ont de l'impact des autres !"
   content : "Chez Manufacture, nous augmentons la capacité d'impact de vos produits auprès de vos utilisateurs en accompagnant vos équipes à livrer de façon régulière, fréquente et efficiente des produits de qualité."
   image : "images/promise.png"
