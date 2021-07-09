@@ -74,21 +74,21 @@ steps:
   image: "images/steps.png"
 
   on_top:
-    title: "Observation"
+    title: "1- Observation"
     activities:
       - item: "Avoir une vue d'ensemble des problématiques équipes et organisationnelles"
       - item: "Faire le bilan des compétences et des technologies utilisées"
       - item: "Création des assets de coaching"
 
   left_side:
-    title: "Alignement"
+    title: "2- Alignement"
     activities:
       - item: "Partager le bilan réalisé"
       - item: "S'aligner sur les axes de travail, les équipes, le rythme et le dispositif du coaching"
       - item: "Avoir une visibilité sur les priorité et la feuille de route"
 
   right_side:
-    title: "Autonome"
+    title: "4- Autonomie"
     activities:
       - item: "Gérer la motivation de l'équipe (creux de l'apprentissage)"
       - item: "Identifier les pratiques à approfondir"
@@ -96,7 +96,7 @@ steps:
       - item: "Suivre et mentorer les équipes dans l'acquisition des pratiques"
 
   bottom:
-    title: "Immersion"
+    title: "3- Immersion"
     activities:
       - item: "Approfondir les pratiques (MOB, Pair, Kata, Learning Hours)"
       - item: "Améliorer et/ou renforcer les compétences"
