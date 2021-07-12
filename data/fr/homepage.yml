@@ -104,7 +104,7 @@ steps:
 
   button:
     enable: true
-    label: "Des questions sur la démarche ?"
+    label: "En savoir plus"
     link: "offer"
 
 
