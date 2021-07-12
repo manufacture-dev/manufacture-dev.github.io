@@ -78,7 +78,7 @@ You have the following rights with regard to your personal data:
 
 - **Right to define instructions related to the retention, deletion and communication of your personal data after your death** (article 40-1 of French law “informatique et libertés”).
 
-- **FIXME**
+- **Right to withdraw your consent at any time**: for purposes based on consent, Article 7 of the GDPR provides that you may withdraw your consent at any time. Such withdrawal will not affect the lawfulness of the processing carried out before the withdrawal.
 
 - **Right to data portability**: under specific conditions defined in article 20 of the GDPR, you have the right to receive the personal data you have provided us in a standard machine-readable format and to require their transfer to the recipient of your choice.
 
