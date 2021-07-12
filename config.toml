@@ -67,7 +67,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "250px"
 # Meta data
 description = "Manufacture | Technical coaching for efficient organisations"
