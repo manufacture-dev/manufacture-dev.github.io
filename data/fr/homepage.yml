@@ -1,38 +1,39 @@
 ############################# banner ############################
 banner:
-  enable : true
-  title : "Coaching technique au service d'organisations efficientes"
-  description : "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer."
-  observation : "C'est ce qui différencie les entreprises qui ont de l'impact des autres !"
-  content : "Chez Manufacture, nous augmentons la capacité d'impact de vos produits auprès de vos utilisateurs en accompagnant vos équipes à fiabiliser leur capacité à livrer des produits de qualité."
-  image : "images/promise.png"
+  enable: true
+  title: "_Coaching technique au service d'organisations efficientes"
+  image: "images/promise.png"
+
+  description: "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer."
+  observation: "C'est ce qui différencie les entreprises qui ont de l'impact des autres !"
+  promise: "Chez Manufacture, nous augmentons la capacité d'impact de vos produits auprès de vos utilisateurs en accompagnant vos équipes à fiabiliser leur capacité à livrer des produits de qualité."
+
   button:
-   enable : true
-   label : "Parlons-en"
-   link : "contact"
+    enable: true
+    label: "Parlons-en"
+    link: "contact"
 
 
 ############################# Target ############################
 target:
   enable: true
   title: "Nous contribuons à réaliser les ambitions de votre entreprise"
+
   description: "C'est la combinaison d'une culture agile et de bonnes pratiques qui participent à rendre une organisation plus efficiente durablement."
   legend: "Chez Manufacture, nous cultivons cette efficience en agissant sur 3 dimensions."
   image: "images/target.png"
+
   observation: "Aujourd'hui, vous faites plusieurs constats :"
   facts:
-    - item: "il est difficile de livrer des produits de qualité dans les temps attendus"
-    - item: "le contrôle de votre IT vous semble fragile"
-    - item: "le temps consacré au support augmente et la capacité à développer de nouvelles fonctionnalités se réduit"
-    - item: "toucher au système contribue au risque de le casser"
-    - item: "les coûts pour maintenir le système actuel sont élevés et continuent d'augmenter"
-    - item: "garder vos ressources et attirer les talents sont devenus des challenges"
-    - item: "la collaboration de vos équipes s’amoindrit et se complexifie"
-  conclusion: "Il est courant qu'une telle situation se produise alors qu'une transformation est en cours ou est finalisée. Ca ne définit pas votre futur : vous avez la capacité d'y remédier."
+    - item: "sur vos produits (qualité en baisse, maintenance coûteuse, évolution complexe, support en hausse, livraisons difficiles, etc.)"
+    - item: "sur vos équipes (démotivation, désimplication, collaboration amoindrie, perte des talents, etc.)"
+  conclusion: "Cela ne définit pas votre futur : vous avez la capacité d'y remédier."
   solution: "En tant que coachs techniques, nous vous accompagnons sur le chemin d'une culture d'organisation générative : orientée sur la performance et donc sur l'efficience de vos équipes."
+
   study:
     content: "\"Selon une étude réalisée par DevOps Research and Assessment (DORA) (Recherches et évaluation), une culture organisationnelle basée sur une grande confiance et axée sur le flux d’informations permet de prédire les performances de livraison de logiciels et les performances technologiques organisationnelles\""
     source: "Source: Westrum Organisation"
+
   button:
     enable: true
     label: "En savoir plus"
@@ -116,51 +117,41 @@ results:
   team:
     title: "Au niveau de l'équipe"
     impacts:
-      - item: "Montée en compétences sur de nouvelles pratiques de développement"
-      - item: "Maitrise du code et delivery"
-      - item: "Passion et fierté de leur travail"
-      - item: "Collaboration améliorée, facilitée, fluidifiée avec les métiers"
-      - item: "Partage au sein de communautés (apprentissages, pratiques, succès)"
-      - item: "Culture de l’amélioration continue"
-      - item: "Très bonne compréhension du produit"
+      - item: "Meilleure maîtrise de son code"
       - item: "Plus grande capacité à livrer"
-      - item: "Meilleure maitrise de sa stack technique"
+      - item: "Collaboration accrue avec le métier"
+      - item: "Culture d'amélioration continue"
+      - item: "Passion et fierté de leur travail"
 
   product:
     title: "Sur les produits"
     icon: "tf-ion-android-checkbox-outline"
     impacts:
-      - item: "Des produits plus fiables, et de meilleure qualité"
-      - item: "Moins de bugs"
-      - item: "Des produits faciles à faire évoluer"
-      - item: "Des produits plus performants et qui répondent davantage aux besoins des utilisateurs"
-      - item: "Une maintenabilité accrue"
-      - item: "Livraison plus fréquente et régulière"
-      - item: "Moins d'échec de livraison"
+      - item: "Plus fiables et de meilleure qualité"
+      - item: "Plus faciles à maintenir et à faire évoluer"
+      - item: "Plus performants"
+      - item: "Qui répondent davantage aux besoins des utilisateurs"
 
   organisation:
     title: "Dans l'organisation"
     icon: "tf-ion-android-checkbox-outline"
     impacts:
-      - item: "Maitrise des couts"
-      - item: "Visibilité accrue"
-      - item: "Équipes impliquées"
-      - item: "Confiance dans les équipes"
+      - item: "Maîtrise des coûts"
+      - item: "Meilleure capacité à innover"
+      - item: "Partage des réussites"
       - item: "Rayonnement interne et externe"
-      - item: "Équipes plus solides"
-      - item: "Adaptabilité accrue sur les régulations"
+      - item: "Capacité à attirer les talents"
+
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
-  title : "Ils nous font confiance"
+  enable: true
+  title: "Ils nous font confiance"
 
   testimonial_item:
-    - name : "Orange"
-      image : "images/logo-orange.png"
-
-    - name : "Société Générale"
-      image : "images/logo-societe-generale.png"
-
-    - name : "Enedis"
-      image : "images/logo-enedis.png"
+    - name: "Orange"
+      image: "images/logo-orange.png"
+    - name: "Société Générale"
+      image: "images/logo-societe-generale.png"
+    - name: "Enedis"
+      image: "images/logo-enedis.png"

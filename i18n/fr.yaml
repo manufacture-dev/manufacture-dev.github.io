@@ -1,8 +1,17 @@
 - id: "home"
   translation: "Accueil"
 
-- id: "review"
-  translation: "Références"
+- id: "offer"
+  translation: "Offre"
+
+- id: "about"
+  translation: "À propos"
+
+- id: "faq"
+  translation: "FAQ"
+
+- id: "join-us"
+  translation: "Nous rejoindre"
 
 - id: "contact"
   translation: "Contact"
@@ -12,10 +21,22 @@
 
 - id: "privacy-policy"
   translation: "Politique de Confidentialité"
-
-- id: "add_to_cart"
-  translation: "Ajouter au panier"
   
+- id: "lastname"
+  translation: "Nom"
+
+- id: "firstname"
+  translation: "Prénom"
+
+- id: "business"
+  translation: "Entreprise"
+
+- id: "phone-number"
+  translation: "Numéro de téléphone"
+
+- id: "email"
+  translation: "Adresse e-mail"
+
 - id: "send"
   translation: "Envoyer"
   

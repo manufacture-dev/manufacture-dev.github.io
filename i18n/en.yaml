@@ -1,8 +1,17 @@
 - id: "home"
   translation: "Home"
 
-- id: "review"
-  translation: "Review"
+- id: "offer"
+  translation: "Offer"
+
+- id: "about"
+  translation: "About"
+
+- id: "faq"
+  translation: "FAQ"
+
+- id: "join-us"
+  translation: "Join us"
 
 - id: "contact"
   translation: "Contact"
@@ -13,8 +22,20 @@
 - id: "privacy-policy"
   translation: "Privacy Policy"
 
-- id: "add_to_cart"
-  translation: "Add to Cart"
+- id: "lastname"
+  translation: "Lastname"
+
+- id: "firstname"
+  translation: "Firstname"
+
+- id: "business"
+  translation: "Business"
+
+- id: "phone-number"
+  translation: "Phone number"
+
+- id: "email"
+  translation: "Email address"
   
 - id: "send"
   translation: "Send Now"

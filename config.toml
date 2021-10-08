@@ -37,11 +37,25 @@ name = "home"
 URL = "/"
 weight = 1
 
-#[[menu.main]]
-#name = "review"
-#pre = "#"
-#URL = "testimonial"
-#weight = 4
+[[menu.main]]
+name = "offer"
+URL = "offer"
+weight = 2
+
+[[menu.main]]
+name = "about"
+URL = "about"
+weight = 3
+
+[[menu.main]]
+name = "faq"
+URL = "faq"
+weight = 4
+
+[[menu.main]]
+name = "join-us"
+URL = "join-us"
+weight = 4
 
 [[menu.main]]
 name = "contact"
