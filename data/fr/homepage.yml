@@ -1,12 +1,11 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "_Coaching technique au service d'organisations efficientes"
+  title: "Coaching technique au service d'organisations efficientes"
   image: "images/promise.png"
+  scroll: "images/scroll.svg"
 
-  description: "Pour une entreprise dont le coeur de métier est l'IT, la culture et les pratiques de leurs équipes sont déterminantes dans leur capacité à délivrer."
-  observation: "C'est ce qui différencie les entreprises qui ont de l'impact des autres !"
-  promise: "Chez Manufacture, nous augmentons la capacité d'impact de vos produits auprès de vos utilisateurs en accompagnant vos équipes à fiabiliser leur capacité à livrer des produits de qualité."
+  description: "Faire monter en compétences vos équipes sur leurs pratiques de développement pour fiabiliser le delivery et améliorer la capacité d’impact de vos produits."
 
   button:
     enable: true
@@ -17,22 +16,33 @@ banner:
 ############################# Target ############################
 target:
   enable: true
-  title: "Nous contribuons à réaliser les ambitions de votre entreprise"
+  title: "_Nous contribuons à réaliser les ambitions de votre entreprise"
 
-  description: "C'est la combinaison d'une culture agile et de bonnes pratiques qui participent à rendre une organisation plus efficiente durablement."
-  legend: "Chez Manufacture, nous cultivons cette efficience en agissant sur 3 dimensions."
-  image: "images/target.png"
+  description: "Aujourd'hui, vous faites plusieurs constats :"
 
-  observation: "Aujourd'hui, vous faites plusieurs constats :"
   facts:
-    - item: "sur vos produits (qualité en baisse, maintenance coûteuse, évolution complexe, support en hausse, livraisons difficiles, etc.)"
-    - item: "sur vos équipes (démotivation, désimplication, collaboration amoindrie, perte des talents, etc.)"
-  conclusion: "Cela ne définit pas votre futur : vous avez la capacité d'y remédier."
-  solution: "En tant que coachs techniques, nous vous accompagnons sur le chemin d'une culture d'organisation générative : orientée sur la performance et donc sur l'efficience de vos équipes."
+    - name: "La performance de votre IT est en baisse"
+      image: "images/fact-performance.svg"
+    - name: "Vos équipes perdent leur motivation"
+      image: "images/fact-motivation.svg"
+    - name: "Toucher au système est coûteux et risqué"
+      image: "images/fact-system.svg"
+    - name: "Le pilotage de votre organisation est complexe"
+      image: "images/fact-organisation.svg"
 
-  study:
-    content: "\"Selon une étude réalisée par DevOps Research and Assessment (DORA) (Recherches et évaluation), une culture organisationnelle basée sur une grande confiance et axée sur le flux d’informations permet de prédire les performances de livraison de logiciels et les performances technologiques organisationnelles\""
-    source: "Source: Westrum Organisation"
+
+############################# Action ############################
+action:
+  enable: true
+  title: "Nous agissons sur 3 piliers de croissance pour rendre votre organisation plus efficiente durablement"
+
+  pillars:
+    - name: "EXCELLENCE TECHNIQUE"
+      description: "Culture agile & bonnes pratiques"
+    - name: "CULTURE DE L’HUMAIN"
+      description: "Capitaliser sur l’expérience et l’entrainement"
+    - name: "ECOSYSTEME DURABLE"
+      description: "Partage & diffusion des apprentissages"
 
   button:
     enable: true
@@ -43,65 +53,29 @@ target:
 ############################# Approach ############################
 approach:
   enable: true
-  title: "Nous faisons grandir vos équipes sur leur culture et leurs pratiques"
-  image: "images/approach.png"
+  title: "_Nous faisons grandir vos équipes sur leur culture et leurs pratiques"
 
   master:
-    title: "Redonner la maitrise de leur code et du pipeline aux équipes :"
-    results:
-      - item: "favoriser l'engagement des équipes"
-      - item: "apprendre et approfondir les nouvelles pratiques"
-      - item: "faire gagner en autonomie"
+    title: "MASTER"
+    description: "Redonner la maitrise de leur code et du pipeline aux équipes"
+    image: "images/master.svg"
 
   deliver:
-    title: "La maitrise fiabilise le delivery"
-    outputs:
-      - item: "le temps de rétroaction est réduit"
-      - item: "les processus de livraison sont améliorés"
-      - item: "l'amélioration continue est entretenue"
+    title: "DELIVER"
+    description: "La maitrise fiabilise le delivery"
+    image: "images/deliver.svg"
 
   impact:
-    title: "La maitrise rend possible l'impact systémique grâce aux équipes"
-    outcomes:
-      - item: "les équipes se partagent leurs connaissances acquises"
-      - item: "elles rayonnent au sein de l'organisation"
-      - item: "elles retrouvent de la passion pour leur métier et leur travail"
+    title: "IMPACT"
+    description: "La maitrise rend possible l'impact systémique grâce aux équipes"
+    image: "images/impact.svg"
 
 
 ############################# Steps ############################
 steps:
   enable: true
   title: "Nous intervenons en immersion au sein des équipes pour \"faire avec\" elles"
-  image: "images/steps.png"
-
-  on_top:
-    title: "1- Observation"
-    activities:
-      - item: "Avoir une vue d'ensemble des problématiques équipes et organisationnelles"
-      - item: "Faire le bilan des compétences et des technologies utilisées"
-      - item: "Création des assets de coaching"
-
-  left_side:
-    title: "2- Alignement"
-    activities:
-      - item: "Partager le bilan réalisé"
-      - item: "S'aligner sur les axes de travail, les équipes, le rythme et le dispositif du coaching"
-      - item: "Avoir une visibilité sur les priorité et la feuille de route"
-
-  right_side:
-    title: "4- Autonomie"
-    activities:
-      - item: "Gérer la motivation de l'équipe (creux de l'apprentissage)"
-      - item: "Identifier les pratiques à approfondir"
-      - item: "Installer un rythme in/out pour gagner en autonmie"
-      - item: "Suivre et mentorer les équipes dans l'acquisition des pratiques"
-
-  bottom:
-    title: "3- Immersion"
-    activities:
-      - item: "Approfondir les pratiques (MOB, Pair, Kata, Learning Hours)"
-      - item: "Améliorer et/ou renforcer les compétences"
-      - item: "Diffuser l'apprentissage pour résoudre les problèmes systémiques (communauté, démo...)"
+  image: "images/steps.svg"
 
   button:
     enable: true
