@@ -34,7 +34,7 @@ target:
 ############################# Action ############################
 action:
   enable: true
-  title: "Nous agissons sur 3 piliers de croissance pour rendre votre organisation plus efficiente durablement"
+  title: "_Nous agissons sur 3 piliers de croissance pour rendre votre organisation plus efficiente durablement"
 
   pillars:
     - name: "EXCELLENCE TECHNIQUE"
@@ -74,7 +74,7 @@ approach:
 ############################# Steps ############################
 steps:
   enable: true
-  title: "Nous intervenons en immersion au sein des équipes pour \"faire avec\" elles"
+  title: "_Nous intervenons en immersion au sein des équipes pour \"faire avec\" elles"
   image: "images/steps.svg"
 
   button:
@@ -86,7 +86,7 @@ steps:
 ############################# Results ############################
 results:
   enable: true
-  title: "Notre impact est visible et mesurable"
+  title: "_Notre impact est visible et mesurable"
 
   team:
     title: "Au niveau de l'équipe"
