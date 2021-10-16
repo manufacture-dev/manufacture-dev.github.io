@@ -64,11 +64,6 @@ weight = 5
 
 # footer menu
 [[menu.footer]]
-name = "contact"
-URL = "contact"
-weight = 2
-
-[[menu.footer]]
 name = "legal-notice"
 URL = "legal-notice"
 weight = 3

@@ -1,0 +1,22 @@
+############################# Contact ############################
+contact:
+  enable: true
+  description: "Une demande, un besoin, une curiosité ? Nous serons ravis de vous répondre"
+
+  button:
+    enable: true
+    label: "Nous contacter"
+    link: "contact"
+
+
+############################# Social ############################
+social:
+  enable: true
+
+  networks:
+    - name: "Twitter"
+      icon: "tf-ion-social-twitter"
+      url: "https://twitter.com/ManufactureDev"
+    - name: "LinkedIn"
+      icon: "tf-ion-social-linkedin"
+      url: "https://www.linkedin.com/company/manufacture-dev"
