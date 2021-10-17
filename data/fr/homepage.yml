@@ -5,7 +5,7 @@ banner:
   image: "images/promise.png"
   scroll: "images/scroll.svg"
 
-  description: "Faire monter en compétences vos équipes sur leurs pratiques de développement pour fiabiliser le delivery et améliorer la capacité d’impact de vos produits."
+  description: "Faire monter en compétences vos équipes sur leurs pratiques de développement pour fiabiliser le delivery et améliorer la capacité d'impact de vos produits."
 
   button:
     enable: true
@@ -40,9 +40,9 @@ action:
   pillars:
     - name: "EXCELLENCE TECHNIQUE"
       description: "Culture agile & bonnes pratiques"
-    - name: "CULTURE DE L’HUMAIN"
-      description: "Capitaliser sur l’expérience et l’entrainement"
-    - name: "ECOSYSTEME DURABLE"
+    - name: "CULTURE DE L'HUMAIN"
+      description: "Capitaliser sur l'expérience et l'entrainement"
+    - name: "ÉCOSYSTÈME DURABLE"
       description: "Partage & diffusion des apprentissages"
 
   button:
@@ -58,12 +58,12 @@ approach:
 
   master:
     title: "MASTER"
-    description: "Redonner la maitrise de leur code et du pipeline aux équipes"
+    description: "Redonner la maitrise de leur code et de leur pipeline aux équipes"
     image: "images/master.svg"
 
   deliver:
     title: "DELIVER"
-    description: "La maitrise fiabilise le delivery"
+    description: "La maîtrise fiabilise le delivery"
     image: "images/deliver.svg"
 
   impact:

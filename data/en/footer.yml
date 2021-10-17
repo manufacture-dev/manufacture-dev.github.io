@@ -1,7 +1,7 @@
 ############################# Contact ############################
 contact:
   enable: true
-  description: "Une demande, un besoin, une curiosité ? Nous serons ravis de vous répondre"
+  description: "A request, a need, a curiosity? We will be happy to answer you"
 
   button:
     enable: true

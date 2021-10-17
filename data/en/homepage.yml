@@ -1,137 +1,126 @@
 ############################# banner ############################
 banner:
-  enable : true
-  title : "Develop with your teams their mastery of code and delivery to increase the impact capacity of your products."
-  content : "We are technical coaches who support the skills development of your teams by working in immersion with them directly on their code base."
-  image : "images/promise.png"
+  enable: true
+  title: "Technical coaching for efficient organizations"
+  image: "images/promise.png"
+  scroll: "images/scroll.svg"
+
+  description: "Train your teams in their development practices to make delivery more reliable and improve the impact of your products."
+
   button:
-   enable : true
-   label : "Contact us"
-   link : "contact"
-
-############################# Feature ############################
-features:
-  enable : true
-  title : "Our Approach: \"Working with the teams\""
-  image : "images/approach.png"
-
-  # feature at the left of the image
-  left_side:
-    # feature item loop
-  - title : "Work in immersion"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "We work directly within the teams on their code base"
-    
-    # feature item loop
-  - title : "Give back control of the code"
-    icon : "tf-ion-ios-bell-outline"
-    content : "We implement good development practices and tools with the teams"
-    
-    # feature item loop
-  - title : "Reliable delivery"
-    icon : "tf-ion-ios-cart-outline"
-    content : "We reduce feedback time by improving delivery processes"
+    enable: true
+    label: "Let's talk"
+    link: "contact"
 
 
-  # feature at the right of the image
-  right_side:
-    # feature item loop
-  - title : "Gain autonomy"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "We make the teams operational on all the skills learned"
+############################# Target ############################
+target:
+  enable: true
+  title: "_We help achieve your business ambitions"
 
-    # feature item loop
-  - title : "Support change"
-    icon : "tf-ion-ios-bell-outline"
-    content : "We start by unlearning to promote team learning"
+  description: "Today, you make several observations:"
 
-    # feature item loop
-  - title : "Look for a systemic impact"
-    icon : "tf-ion-ios-cart-outline"
-    content : "We focus on teams to seek lasting change"
-
-
-############################# promo ############################
-promo:
-  enable : true
-  image : "images/commitment.svg"
-  title : "Our Commitment: concrete and measurable results"
-  content : "Raising the bar is not an end for us, but only a way to improve the performance of your teams.
-  We do not use maturity indicators and prefer to rely on tangible measures of the performance of your teams.
-  We are based on the 2019 Accelerate State of DevOps study which identifies the 4 key metrics for measuring the performance of development teams:
-  - Deployment Frequency
-  - Lead Time for Changes
-  - Change Failure Rate
-  - Time to Restore Service"
+  facts:
+    - name: "Your IT performance is declining"
+      image: "images/fact-performance.svg"
+    - name: "Your teams lose their motivation"
+      image: "images/fact-motivation.svg"
+    - name: "Handling the system is costly and risky"
+      image: "images/fact-system.svg"
+    - name: "Steering your organization is complex"
+      image: "images/fact-organisation.svg"
 
 
-############################# About Product #######################
-about_product:
-  enable : true
-  title : "Our Approach: increase the team's capacity to deliver value"
-  items:
-    # about product item loop
-    - image : "images/master.png"
-      title : "MASTER"
-      content : "Master your code and pipeline to deliver better and faster products and services"
-      button:
-        enable : false
-        label : "More details"
-        link : "#"
-        
-    # about product item loop
-    - image : "images/deliver.png"
-      title : "DELIVER"
-      content : "Automate processes to deliver and deploy applications / services in production, in the hands of users, on a regular, frequent, and sustainable basis"
-      button:
-        enable : false
-        label : "More details"
-        link : "#"
-        
-    # about product item loop
-    - image : "images/impact.png"
-      title : "IMPACT"
-      content : "Bring value to customers, continuously enrich the application, retain talent through regular and frequent deployment and mastery of its code and delivery"
-      button:
-        enable : false
-        label : "More details"
-        link : "#"
+############################# Action ############################
+action:
+  enable: true
+  title: "_We act on 3 pillars of growth to make your organization more efficient in the long term"
+  image: "images/pillars.png"
+
+  pillars:
+    - name: "TECHNICAL EXCELLENCE"
+      description: "Agile culture & best practices"
+    - name: "HUMAN CULTURE"
+      description: "Capitalize on experience and training"
+    - name: "SUSTAINABLE ECOSYSTEM"
+      description: "Sharing & spreading of learning"
+
+  button:
+    enable: true
+    label: "Learn more"
+    link: "offer"
 
 
-#################################### Products ########################
-products:
-  enable : false
-  title : "Discover Our Offers"
+############################# Approach ############################
+approach:
+  enable: true
+  title: "_We help your teams grow on their culture and practices"
+
+  master:
+    title: "MASTER"
+    description: "Give back control of their code and their pipeline to the teams"
+    image: "images/master.svg"
+
+  deliver:
+    title: "DELIVER"
+    description: "Mastery makes delivery more reliable"
+    image: "images/deliver.svg"
+
+  impact:
+    title: "IMPACT"
+    description: "Mastery makes systemic impact possible thanks to teams"
+    image: "images/impact.png"
 
 
-################################## Subscription ###################
-subscription:
-  enable : true
-  bg_image : "images/call-to-action.jpg"
-  title : "Stay Informed"
-  content : "Leave us your e-mail address and we will get back to you"
-  placeholder : "Your Email Address Here"
+############################# Steps ############################
+steps:
+  enable: true
+  title: "_We intervene in immersion within the teams to \"do with\" them"
+  image: "images/steps.png"
+
+  button:
+    enable: true
+    label: "Learn more"
+    link: "offer"
+
+
+############################# Results ############################
+results:
+  enable: true
+  title: "_Our impact is visible and measurable"
+
+  dimensions:
+    - title: "At team level"
+      impacts:
+        - item: "Better proficiency of its code"
+        - item: "Greater capacity to deliver"
+        - item: "Increased collaboration with the business"
+        - item: "Culture of continuous improvement"
+        - item: "Passion and pride in their work"
+    - title: "On products"
+      impacts:
+        - item: "More reliable and of better quality"
+        - item: "Easier to maintain and evolve"
+        - item: "Better performance"
+        - item: "That better meet user needs"
+    - title: "In the organization"
+      impacts:
+        - item: "Cost containment"
+        - item: "Better ability to innovate"
+        - item: "Sharing successes"
+        - item: "Internal and external spread"
+        - item: "Ability to attract talent"
 
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
-  title : "Our references"
+  enable: true
+  title: "They trust us"
+
   testimonial_item:
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Orange"
+      image: "images/logo-orange.png"
+    - name: "Société Générale"
+      image: "images/logo-societe-generale.png"
+    - name: "Enedis"
+      image: "images/logo-enedis.png"
