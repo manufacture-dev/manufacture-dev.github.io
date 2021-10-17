@@ -59,12 +59,12 @@ approach:
   master:
     title: "MASTER"
     description: "Redonner la maitrise de leur code et de leur pipeline aux équipes"
-    image: "images/master.svg"
+    image: "images/master.png"
 
   deliver:
     title: "DELIVER"
     description: "La maîtrise fiabilise le delivery"
-    image: "images/deliver.svg"
+    image: "images/deliver.png"
 
   impact:
     title: "IMPACT"
