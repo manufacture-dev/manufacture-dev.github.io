@@ -1,5 +1,5 @@
 ---
-title: "Parce que le coaching technique n'est pas encore très répandu..."
+title: "_Parce que le coaching technique n'est pas encore très répandu..."
 button:
   enable: true 
   label: "Discutons-en"

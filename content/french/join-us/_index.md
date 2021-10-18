@@ -1,5 +1,5 @@
 ---
-title: "Envie de transmettre votre passion et d'avoir plus d'impact ?"
+title: "_Envie de transmettre votre passion et d'avoir plus d'impact ?"
 button:
   enable: true
   label: "Voir la fiche de poste d'un coach technique"
