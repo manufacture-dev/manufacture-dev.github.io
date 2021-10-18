@@ -1,0 +1,115 @@
+############################# Target ############################
+target:
+  enable: true
+
+  statement:
+    description: "Selon le Gartner, les équipes d'ingénierie logicielle les plus performantes obtiennent des résultats :"
+    figures:
+      - number: "53%"
+        details: "supérieurs en termes d'expérience et de productivité de leurs employés"
+      - number: "37%"
+        details: "supérieurs en termes d’attraction et de fidélisation de leurs clients"
+    source:
+      label: "*Source : 2020 Gartner Software Engineering Teams Survey"
+      url: "https://www.gartner.com/smarterwithgartner/3-ways-to-make-your-software-engineering-team-50-more-effective"
+
+  description: "Le coaching technique s'adresse aux entreprises qui veulent se transformer en profondeur et durablement :"
+
+  levels:
+    - name: "NIVEAU ÉQUIPE"
+      description: "engagement, partage, collaboration"
+      image: "images/offer/level-team.png"
+    - name: "NIVEAU ORGANISATION"
+      description: "culture de l'amélioration continue"
+      image: "images/offer/level-organisation.png"
+    - name: "NIVEAU MANAGEMENT"
+      description: "visibilité et maîtrise des coûts"
+      image: "images/offer/level-management.png"
+    - name: "NIVEAU EXTERNE"
+      description: "valeur ajoutée par les produits développés"
+      image: "images/offer/level-external.png"
+
+
+############################# Approach ############################
+approach:
+  enable: true
+  title: "_Notre excellence technique est au service de l’efficience de vos équipes"
+
+  statement: "Pour que vos équipes retrouvent la pleine maîtrise de leur code et de leur pipeline"
+  details: "Nous insufflons une culture de l’amélioration continue au sein des équipes et les faisons monter en compétences sur leurs pratiques de développement"
+  purpose: "Pour cela, nous intervenons en immersion dans les équipes et développons avec elles les fonctionnalités du backlog directement sur leur base de code."
+
+  coaching:
+    description: "Notre niveau d’accompagnement et nos formats d’intervention s’adaptent aux besoins de chaque équipe :"
+    formats:
+      - name: "Coaching d’équipe"
+        image: "images/offer/coaching-team.png"
+        practices:
+          - name: "Learning Hours"
+            description: "apprendre et mettre en oeuvre les nouvelles pratiques par l’entrainement (kata, ...)"
+          - name: "Mob Programming (équipe entière ou partie)"
+            description: "réaliser une fonctionnalité du backlog en appliquant les bonnes pratiques vues lors des learning hours"
+      - name: "Coaching individuel"
+        image: "images/offer/coaching-individual.png"
+        practices:
+          - name: "Pair Programming"
+            description: "résoudre les problèmes rencontrés lors des sessions de Mob ou pour approfondir des pratiques spécifiques"
+
+    goal:
+      description: "La finalité est d’améliorer la capacité à délivrer et in fine la performance de l’équipe qui s’apprécie par :"
+      results:
+        - name: "Le changement culturel de l’équipe"
+        - name: "Sa montée en compétences sur ses pratiques de développement"
+        - name: "Plus d’engagement"
+        - name: "Une plus grande autonomie"
+
+    outcomes:
+      - name: "Une plus grande maîtrise fiabilise ainsi le delivery :"
+        items:
+          - name: "Le temps de rétroaction est réduit"
+          - name: "Les processus de livraison sont améliorés"
+          - name: "L'amélioration continue est entretenue"
+      - name: "La maîtrise rend possible l’impact systémique :"
+        items:
+          - name: "Les équipes partagent leurs connaissances avec passion"
+          - name: "Le rayonnement au sein de l’organisation capte les talents et les nouveaux projets"
+          - name: "La qualité des produits développés attire et retient davantage de clients"
+
+
+############################# Method ############################
+method:
+  enable: true
+  title: "_Un focus sur l’humain pour gagner en autonomie"
+  image: "images/offer/method.png"
+
+  description: "Pour favoriser une montée en compétences soutenable et durable, nous alternons des cycles où le coach est en immersion dans l’équipe (cycle “IN”) et des cycles où le coach s’efface temporairement (cycle “OUT”)"
+
+  details:
+    - element: "Les cycles viennent se calquer sur le rythme de l’équipe (sur 1 ou 2 sprint en fonction de la durée ou sur le Program Increment s’il existe)."
+    - element: "À chaque début de cycle en immersion, le coach et l’équipe s’entendent sur un contrat de coaching qui va définir le périmètre d’intervention et les objectifs à atteindre."
+
+  note: "A noter que bien qu’il ait un impact sur le delivery des équipes, le coach technique ne prend pas les tâches de développement individuellement."
+
+
+############################# Impact ############################
+impact:
+  enable: true
+  title: "_La passion des équipes au service de la performance de votre organisation"
+  image: "images/offer/impact.png"
+
+
+############################# Results ############################
+results:
+  enable: true
+  title: "_Des résultats visibles et des impacts durables"
+  image: "images/offer/results.png"
+
+  notes:
+    - label: "Un accompagnement de coaching technique dure entre 6 mois et 1 an selon le périmètre d’intervention."
+    - label: "Les impacts sur le changement culturel de l’équipe, les nouvelles pratiques mises en oeuvre et l’amélioration de la qualité du code sont visibles et mesurables pendant l’accompagnement."
+    - label: "Il est courant que les impacts sur la performance du delivery et le rayonnement au sein de l’organisation soient visibles une fois l’accompagnement terminé."
+
+  button:
+    enable: true
+    label: "Parlons en"
+    link: "contact"
