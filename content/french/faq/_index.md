@@ -1,5 +1,9 @@
 ---
 title: "Parce que le coaching technique n'est pas encore très répandu..."
+button:
+  enable: true 
+  label: "Discutons-en"
+  link: "contact"
 draft: false
 ---
 
