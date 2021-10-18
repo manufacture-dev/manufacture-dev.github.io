@@ -3,7 +3,6 @@ banner:
   enable: true
   title: "Technical coaching for efficient organizations"
   image: "images/promise.png"
-  scroll: "images/scroll.svg"
 
   description: "Train your teams in their development practices to make delivery more reliable and improve the impact of your products."
 

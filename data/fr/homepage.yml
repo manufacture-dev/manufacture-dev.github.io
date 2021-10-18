@@ -3,7 +3,6 @@ banner:
   enable: true
   title: "Coaching technique au service d'organisations efficientes"
   image: "images/promise.png"
-  scroll: "images/scroll.svg"
 
   description: "Faire monter en compétences vos équipes sur leurs pratiques de développement pour fiabiliser le delivery et améliorer la capacité d'impact de vos produits."
 
