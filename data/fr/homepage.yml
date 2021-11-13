@@ -4,7 +4,7 @@ banner:
   title: "Coaching technique au service d'organisations efficientes"
   image: "images/promise.png"
 
-  description: "Faire monter en compétences vos équipes sur leurs pratiques de développement pour fiabiliser le delivery et améliorer la capacité d'impact de vos produits."
+  description: "Faire **monter en compétences** vos équipes sur leurs pratiques de développement pour **fiabiliser le delivery** et améliorer la **capacité d'impact** de vos produits."
 
   button:
     enable: true
@@ -20,20 +20,21 @@ target:
   description: "Aujourd'hui, vous faites plusieurs constats :"
 
   facts:
-    - name: "La performance de votre IT est en baisse"
+    - name: "La performance de **votre IT est en baisse**"
       image: "images/fact-performance.svg"
-    - name: "Vos équipes perdent leur motivation"
+    - name: "Vos équipes **perdent leur motivation**"
       image: "images/fact-motivation.svg"
-    - name: "Toucher au système est coûteux et risqué"
+    - name: "Toucher au système est **coûteux et risqué**"
       image: "images/fact-system.svg"
-    - name: "Le pilotage de votre organisation est complexe"
+    - name: "Le pilotage de votre organisation est **complexe**"
       image: "images/fact-organisation.svg"
 
 
 ############################# Action ############################
 action:
   enable: true
-  title: "_Nous agissons sur 3 piliers de croissance pour rendre votre organisation plus efficiente durablement"
+  title: "_Nous agissons sur 3 piliers de croissance"
+  description: "pour rendre votre organisation **plus efficiente durablement**"
   image: "images/pillars.png"
 
   pillars:
@@ -53,28 +54,30 @@ action:
 ############################# Approach ############################
 approach:
   enable: true
-  title: "_Nous faisons grandir vos équipes sur leur culture et leurs pratiques"
+  title: "_Nous faisons grandir vos équipes"
+  description: "sur leur **culture** et leurs **pratiques**"
 
   master:
     title: "MASTER"
-    description: "Redonner la maitrise de leur code et de leur pipeline aux équipes"
+    description: "Redonner la **maitrise de leur code** et de leur **pipeline** aux équipes"
     image: "images/master.png"
 
   deliver:
     title: "DELIVER"
-    description: "La maîtrise fiabilise le delivery"
+    description: "La maîtrise **fiabilise le delivery**"
     image: "images/deliver.png"
 
   impact:
     title: "IMPACT"
-    description: "La maitrise rend possible l'impact systémique grâce aux équipes"
+    description: "La maitrise **rend possible l'impact systémique** grâce aux équipes"
     image: "images/impact.png"
 
 
 ############################# Steps ############################
 steps:
   enable: true
-  title: "_Nous intervenons en immersion au sein des équipes pour \"faire avec\" elles"
+  title: "_Nous intervenons en immersion au sein des équipes"
+  description: "pour **\"faire avec\"** elles"
   image: "images/steps.png"
 
   button:
@@ -87,22 +90,26 @@ steps:
 results:
   enable: true
   title: "_Notre impact est visible et mesurable"
+  description: "Il s’apprécie sur **3 axes :**"
 
   dimensions:
-    - title: "Au niveau de l'équipe"
+    - title: "Équipes"
+      icon: "tf-ion-ios-people"
       impacts:
-        - item: "Meilleure maîtrise de son code"
+        - item: "Meilleure maîtrise de leur code"
         - item: "Plus grande capacité à livrer"
         - item: "Collaboration accrue avec le métier"
         - item: "Culture d'amélioration continue"
         - item: "Passion et fierté de leur travail"
-    - title: "Sur les produits"
+    - title: "Produits"
+      icon: "tf-ion-clipboard"
       impacts:
         - item: "Plus fiables et de meilleure qualité"
         - item: "Plus faciles à maintenir et à faire évoluer"
         - item: "Plus performants"
         - item: "Qui répondent davantage aux besoins des utilisateurs"
-    - title: "Dans l'organisation"
+    - title: "Organisation"
+      icon: "tf-ion-map"
       impacts:
         - item: "Maîtrise des coûts"
         - item: "Meilleure capacité à innover"

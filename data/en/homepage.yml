@@ -4,7 +4,7 @@ banner:
   title: "Technical coaching for efficient organizations"
   image: "images/promise.png"
 
-  description: "Train your teams in their development practices to make delivery more reliable and improve the impact of your products."
+  description: "**Train your teams** in their development practices to make **delivery more reliable** and **improve the impact** of your products."
 
   button:
     enable: true
@@ -20,20 +20,21 @@ target:
   description: "Today, you make several observations:"
 
   facts:
-    - name: "Your IT performance is declining"
+    - name: "Your **IT performance is declining**"
       image: "images/fact-performance.svg"
-    - name: "Your teams lose their motivation"
+    - name: "Your teams **lose their motivation**"
       image: "images/fact-motivation.svg"
-    - name: "Handling the system is costly and risky"
+    - name: "Handling the system is **costly and risky**"
       image: "images/fact-system.svg"
-    - name: "Steering your organization is complex"
+    - name: "Steering your organization is **complex**"
       image: "images/fact-organisation.svg"
 
 
 ############################# Action ############################
 action:
   enable: true
-  title: "_We act on 3 pillars of growth to make your organization more efficient in the long term"
+  title: "_We act on 3 pillars of growth"
+  description: "to make your organization **more efficient in the long term**"
   image: "images/pillars.png"
 
   pillars:
@@ -53,28 +54,30 @@ action:
 ############################# Approach ############################
 approach:
   enable: true
-  title: "_We help your teams grow on their culture and practices"
+  title: "_We help your teams grow"
+  description: "on their **culture** and **practices**"
 
   master:
     title: "MASTER"
-    description: "Give back control of their code and their pipeline to the teams"
+    description: "Give back **control of their code** and their **pipeline** to the teams"
     image: "images/master.png"
 
   deliver:
     title: "DELIVER"
-    description: "Mastery makes delivery more reliable"
+    description: "Mastery makes **delivery more reliable**"
     image: "images/deliver.png"
 
   impact:
     title: "IMPACT"
-    description: "Mastery makes systemic impact possible thanks to teams"
+    description: "Mastery makes **systemic impact possible** thanks to teams"
     image: "images/impact.png"
 
 
 ############################# Steps ############################
 steps:
   enable: true
-  title: "_We intervene in immersion within the teams to \"do with\" them"
+  title: "_We intervene in immersion within the teams"
+  description: "to **\"do with\"** them"
   image: "images/steps.png"
 
   button:
@@ -87,22 +90,26 @@ steps:
 results:
   enable: true
   title: "_Our impact is visible and measurable"
+  description: "It is assessed on **3 axes:**"
 
   dimensions:
-    - title: "At team level"
+    - title: "Teams"
+      icon: "tf-ion-ios-people"
       impacts:
         - item: "Better proficiency of its code"
         - item: "Greater capacity to deliver"
         - item: "Increased collaboration with the business"
         - item: "Culture of continuous improvement"
         - item: "Passion and pride in their work"
-    - title: "On products"
+    - title: "Products"
+      icon: "tf-ion-clipboard"
       impacts:
         - item: "More reliable and of better quality"
         - item: "Easier to maintain and evolve"
         - item: "Better performance"
         - item: "That better meet user needs"
-    - title: "In the organization"
+    - title: "Organization"
+      icon: "tf-ion-map"
       impacts:
         - item: "Cost containment"
         - item: "Better ability to innovate"
