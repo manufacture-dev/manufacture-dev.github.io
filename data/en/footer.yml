@@ -1,11 +1,12 @@
 ############################# Contact ############################
 contact:
   enable: true
-  description: "A request, a need, a curiosity? We will be happy to answer you"
+  question: "A request, a need, a curiosity?"
+  answer: "**We will be happy to answer you**"
 
   button:
     enable: true
-    label: "Learn more"
+    label: "Contact us"
     link: "contact"
 
 
@@ -20,4 +21,3 @@ social:
     - name: "LinkedIn"
       icon: "tf-ion-social-linkedin"
       url: "https://www.linkedin.com/company/manufacture-dev"
-
