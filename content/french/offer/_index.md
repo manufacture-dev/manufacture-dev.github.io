@@ -87,10 +87,10 @@ method:
       - label: "des cycles “in” : où le coach est en immersion dans l’équipe"
       - label: "des cycles “out” : où le coach s’efface temporairement"
     cycles:
-      - name: ""
-        description: ""
-      - name: ""
-        description: ""
+      - name: "CYCLE IN"
+        description: "Le coach technique accompagne l’équipe en session de coaching (collectif ou individuel)"
+      - name: "CYCLE OUT"
+        description: "Le coach technique laisse l’équipe expérimenter par elle-même"
     details:
       - element: "Les cycles viennent se calquer sur le rythme de l’équipe (sur 1 ou 2 sprint en fonction de la durée ou sur le Program Increment s’il existe)."
       - element: "À chaque début de cycle en immersion, le coach et l’équipe s’entendent sur un contrat de coaching qui va définir le périmètre d’intervention et les objectifs à atteindre."
