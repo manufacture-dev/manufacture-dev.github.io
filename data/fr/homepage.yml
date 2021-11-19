@@ -78,7 +78,7 @@ steps:
   enable: true
   title: "_Nous intervenons en immersion au sein des équipes"
   description: "pour **\"faire avec\"** elles"
-  image: "images/steps.png"
+  image: "images/steps_fr.png"
 
   button:
     enable: true
