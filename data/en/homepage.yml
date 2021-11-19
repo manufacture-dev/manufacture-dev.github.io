@@ -35,7 +35,7 @@ action:
   enable: true
   title: "_We act on 3 pillars of growth"
   description: "to make your organization **more efficient in the long term**"
-  image: "images/pillars.png"
+  image: "images/pillars_en.png"
 
   pillars:
     - name: "TECHNICAL EXCELLENCE"

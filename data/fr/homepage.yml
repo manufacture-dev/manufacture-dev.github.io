@@ -35,7 +35,7 @@ action:
   enable: true
   title: "_Nous agissons sur 3 piliers de croissance"
   description: "pour rendre votre organisation **plus efficiente durablement**"
-  image: "images/pillars.png"
+  image: "images/pillars_fr.png"
 
   pillars:
     - name: "EXCELLENCE TECHNIQUE"
