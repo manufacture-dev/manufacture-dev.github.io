@@ -101,7 +101,7 @@ method:
 results:
   enable: true
   title: "_Nos résultats sont visibles et les impacts durables"
-  image: "images/offer/results.png"
+  image: "images/offer/results_fr.png"
   
   notes:
     - label: "Un accompagnement de coaching technique dure entre 6 mois et 1 an selon le périmètre d’intervention."
