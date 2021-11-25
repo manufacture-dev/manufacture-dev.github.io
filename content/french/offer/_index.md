@@ -18,6 +18,11 @@ target:
       label: "*Source : 2020 Gartner Software Engineering Teams Survey"
       url: "https://www.gartner.com/smarterwithgartner/3-ways-to-make-your-software-engineering-team-50-more-effective"
 
+
+############################# Dimensions ############################
+dimensions:
+  enable: true
+
   description: "Le coaching technique répond aux enjeux des entreprises qui veulent **se transformer durablement** en agissant sur 4 dimensions :"
 
   levels:
@@ -59,42 +64,50 @@ approach:
         - name: "La **qualité des produits** développés attire et retient davantage de **clients**"
 
 
-############################# Method ############################
-method:
+############################# Coaching ############################
+coaching:
   enable: true
   title: "_Notre coaching s'adapte aux besoins de chaque équipe"
 
-  coaching:
-    statement: "Avec **plusieurs niveaux d'accompagnement** et de formats d'intervention"
-    formats:
-      - name: "Coaching d'équipe"
-        image: "images/offer/coaching-team.png"
-        practices:
-          - name: "Learning Hours"
-            description: "Apprendre et mettre en oeuvre les nouvelles pratiques par l'entrainement (kata, etc.)"
-          - name: "Mob Programming (équipe entière ou partie)"
-            description: "Réaliser une fonctionnalité du backlog en appliquant les bonnes pratiques vues lors des learning hours"
-      - name: "Coaching individuel"
-        image: "images/offer/coaching-individual.png"
-        practices:
-          - name: "Pair Programming"
-            description: "Résoudre les problèmes rencontrés lors des sessions de Mob ou pour approfondir des pratiques spécifiques"
+  statement: "Avec **plusieurs niveaux d'accompagnement** et de formats d'intervention"
 
-  methods:
-    statement: "Avec **un focus sur l'humain** pour permettre de gagner en autonomie"
-    description: "Pour favoriser une montée en compétences soutenable et durable, nous alternons :"
-    items:
-      - label: "des cycles \"in\" : où le coach est en immersion dans l'équipe"
-      - label: "des cycles \"out\" : où le coach s'efface temporairement"
-    cycles:
-      - name: "CYCLE \"IN\""
-        description: "Le coach technique accompagne l'équipe en session de coaching (collectif ou individuel)"
-      - name: "CYCLE \"OUT\""
-        description: "Le coach technique laisse l'équipe expérimenter par elle-même"
-    details:
-      - element: "Les cycles viennent se calquer sur le rythme de l'équipe (sur 1 ou 2 sprint en fonction de la durée ou sur le Program Increment s'il existe)."
-      - element: "À chaque début de cycle en immersion, le coach et l'équipe s'entendent sur un contrat de coaching qui va définir le périmètre d'intervention et les objectifs à atteindre."
-    note: "À noter que bien qu'il ait un impact sur le delivery des équipes, le coach technique ne prend pas les tâches de développement individuellement."
+  formats:
+    - name: "Coaching d'équipe"
+      image: "images/offer/coaching-team.png"
+      practices:
+        - name: "Learning Hours"
+          description: "Apprendre et mettre en oeuvre les nouvelles pratiques par l'entrainement (kata, etc.)"
+        - name: "Mob Programming (équipe entière ou partie)"
+          description: "Réaliser une fonctionnalité du backlog en appliquant les bonnes pratiques vues lors des learning hours"
+    - name: "Coaching individuel"
+      image: "images/offer/coaching-individual.png"
+      practices:
+        - name: "Pair Programming"
+          description: "Résoudre les problèmes rencontrés lors des sessions de Mob ou pour approfondir des pratiques spécifiques"
+
+
+############################# Method ############################
+method:
+  enable: true
+
+  statement: "Avec **un focus sur l'humain** pour permettre de gagner en autonomie"
+
+  description: "Pour favoriser une montée en compétences soutenable et durable, nous alternons :"
+  items:
+    - label: "des cycles \"in\" : où le coach est en immersion dans l'équipe"
+    - label: "des cycles \"out\" : où le coach s'efface temporairement"
+
+  cycles:
+    - name: "CYCLE \"IN\""
+      description: "Le coach technique accompagne l'équipe en session de coaching (collectif ou individuel)"
+    - name: "CYCLE \"OUT\""
+      description: "Le coach technique laisse l'équipe expérimenter par elle-même"
+
+  details:
+    - element: "Les cycles viennent se calquer sur le rythme de l'équipe (sur 1 ou 2 sprint en fonction de la durée ou sur le Program Increment s'il existe)."
+    - element: "À chaque début de cycle en immersion, le coach et l'équipe s'entendent sur un contrat de coaching qui va définir le périmètre d'intervention et les objectifs à atteindre."
+
+  note: "À noter que bien qu'il ait un impact sur le delivery des équipes, le coach technique ne prend pas les tâches de développement individuellement."
 
 
 ############################# Results ############################
@@ -109,6 +122,11 @@ results:
       - label: "Généralement visibles et mesurables **pendant l'accompagnement**."
       - label: "Couramment visibles **une fois l'accompagnement terminé**."
     note: "Un accompagnement dure entre 6 mois et 1 an selon le périmètre d'intervention."
+
+
+############################# Outcomes ############################
+outcomes:
+  enable: true
   
   delivery:
     description: "La **capacité à délivrer des équipes** est améliorée"

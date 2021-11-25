@@ -18,6 +18,11 @@ target:
       label: "*Source : 2020 Gartner Software Engineering Teams Survey"
       url: "https://www.gartner.com/smarterwithgartner/3-ways-to-make-your-software-engineering-team-50-more-effective"
 
+
+############################# Dimensions ############################
+dimensions:
+  enable: true
+
   description: "Technical coaching responds to the challenges of companies who want **to transform themselves sustainably** by acting on 4 dimensions:"
 
   levels:
@@ -59,42 +64,50 @@ approach:
         - name: "The **quality of the products** developed attracts and retains more **customers**"
 
 
-############################# Method ############################
-method:
+############################# Coaching ############################
+coaching:
   enable: true
   title: "_Our coaching adapts to the needs of each team"
 
-  coaching:
-    statement: "With **several levels of support** and intervention formats"
-    formats:
-      - name: "Team coaching"
-        image: "images/offer/coaching-team.png"
-        practices:
-          - name: "Learning Hours"
-            description: "Learn and implement new practices through training (kata, etc.)"
-          - name: "Mob Programming (whole or part team)"
-            description: "Develop a backlog functionality by applying the best practices seen during the learning hours"
-      - name: "Individual coaching"
-        image: "images/offer/coaching-individual.png"
-        practices:
-          - name: "Pair Programming"
-            description: "Solve problems encountered during Mob sessions or to deepen specific practices"
+  statement: "With **several levels of support** and intervention formats"
 
-  methods:
-    statement: "With **a focus on people** to gain autonomy"
-    description: "To promote acceptable and sustainable skills development, we alternate:"
-    items:
-      - label: "\"in\" cycles: where the coach is immersed in the team"
-      - label: "\"out\" cycles: where the coach temporarily fades away"
-    cycles:
-      - name: "\"IN\" CYCLE"
-        description: "The technical coach accompanies the team in a coaching session (collective or individual)"
-      - name: "\"OUT\" CYCLE"
-        description: "The technical coach lets the team experiment for themselves"
-    details:
-      - element: "The cycles follow the rhythm of the team (on 1 or 2 sprints depending on the duration or on the Program Increment if it exists)."
-      - element: "At each start of the immersion cycle, the coach and the team agree on a coaching contract which will define the scope of intervention and the objectives to be achieved."
-    note: "Note that although it has an impact on team delivery, the technical coach does not take development tasks individually."
+  formats:
+    - name: "Team coaching"
+      image: "images/offer/coaching-team.png"
+      practices:
+        - name: "Learning Hours"
+          description: "Learn and implement new practices through training (kata, etc.)"
+        - name: "Mob Programming (whole or part team)"
+          description: "Develop a backlog functionality by applying the best practices seen during the learning hours"
+    - name: "Individual coaching"
+      image: "images/offer/coaching-individual.png"
+      practices:
+        - name: "Pair Programming"
+          description: "Solve problems encountered during Mob sessions or to deepen specific practices"
+
+
+############################# Method ############################
+method:
+  enable: true
+
+  statement: "With **a focus on people** to gain autonomy"
+
+  description: "To promote acceptable and sustainable skills development, we alternate:"
+  items:
+    - label: "\"in\" cycles: where the coach is immersed in the team"
+    - label: "\"out\" cycles: where the coach temporarily fades away"
+
+  cycles:
+    - name: "\"IN\" CYCLE"
+      description: "The technical coach accompanies the team in a coaching session (collective or individual)"
+    - name: "\"OUT\" CYCLE"
+      description: "The technical coach lets the team experiment for themselves"
+
+  details:
+    - element: "The cycles follow the rhythm of the team (on 1 or 2 sprints depending on the duration or on the Program Increment if it exists)."
+    - element: "At each start of the immersion cycle, the coach and the team agree on a coaching contract which will define the scope of intervention and the objectives to be achieved."
+
+  note: "Note that although it has an impact on team delivery, the technical coach does not take development tasks individually."
 
 
 ############################# Results ############################
@@ -109,6 +122,11 @@ results:
       - label: "Usually visible and measurable **during accompaniment**."
       - label: "Commonly visible **once the accompaniment is finished**."
     note: "Accompaniment lasts between 6 months and 1 year depending on the scope of intervention."
+
+
+############################# Outcomes ############################
+outcomes:
+  enable: true
   
   delivery:
     description: "The **ability of teams to deliver** is improved"
