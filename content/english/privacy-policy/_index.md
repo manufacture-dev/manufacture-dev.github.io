@@ -13,7 +13,7 @@ The purpose of this policy is to inform you about how we process your personal d
 
 ### 1. Who is the data controller?
 
-The data controller is Manufacture, simplified joint stock company with a single shareholder, registered with the Registry of Trade and Companies of Paris under the number 843 666 637 and whose head office is located at 59 Boulevard Exelmans, 75016 Paris (hereinafter as “**Us**” or “**We**”).
+The data controller is NORRECRAFT, simplified joint stock company with a single shareholder, registered with the Registry of Trade and Companies of Paris under the number 843 666 637 and whose head office is located at 59 Boulevard Exelmans, 75016 Paris (hereinafter as “**Us**” or “**We**”).
 
 ### 2. What personal data we collect?
 

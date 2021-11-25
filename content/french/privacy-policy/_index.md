@@ -13,7 +13,7 @@ Le but de cette politique est de vous informer sur les modalités selon lesquell
 
 ### 1. Qui est le Responsable de traitement ?
 
-Le responsable du traitement est la société Manufacture, Société par actions simplifiée à associé unique, immatriculée au RCS Paris de sous le n°843 666 637 et dont le siège social est situé 59 Boulevard Exelmans, 75016 Paris (ci-après « **Nous** »).
+Le responsable du traitement est la société NORRECRAFT, Société par actions simplifiée à associé unique, immatriculée au RCS Paris de sous le n°843 666 637 et dont le siège social est situé 59 Boulevard Exelmans, 75016 Paris (ci-après « **Nous** »).
 
 ### 2. Quelles données personnelles collectons-nous ?
 

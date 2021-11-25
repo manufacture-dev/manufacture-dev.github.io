@@ -7,7 +7,7 @@ draft: false
 
 The https://manufacture.dev/ website is published by:
 
-The company **Manufacture**
+The company **NORRECRAFT**
 
 **Simplified joint stock company with a sole shareholder** with a share capital of **1,000** euros
 
@@ -21,7 +21,7 @@ Email address: **contact@manufacture.dev**
 
 ### Director of the publication
 
-M. **Jean-Louis Rigau**, President of the company **Manufacture**
+M. **Jean-Louis Rigau**, President of the company **NORRECRAFT**
 
 ### Hosting provider
 

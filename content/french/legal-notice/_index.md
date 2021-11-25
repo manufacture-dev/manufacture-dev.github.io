@@ -7,7 +7,7 @@ draft: false
 
 Le site internet https://manufacture.dev/ est édité par :
 
-La société **Manufacture**
+La société **NORRECRAFT**
 
 **Société par actions simplifiée à associé unique** au capital social de **1000** euros
 
@@ -21,7 +21,7 @@ Adresse électronique : **contact@manufacture.dev**
 
 ### Directeur de la publication
 
-Monsieur **Jean-Louis Rigau**, Président de la société **Manufacture**
+Monsieur **Jean-Louis Rigau**, Président de la société **NORRECRAFT**
 
 ### Prestataire d’hébergement
 
