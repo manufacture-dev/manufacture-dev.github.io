@@ -118,9 +118,6 @@ results:
   statement:
     description: "Ils se mesurent **pendant et après** l'accompagnement de coaching technique"
     image: "images/offer/results_fr.png"
-    comments:
-      - label: "Généralement visibles et mesurables **pendant l'accompagnement**."
-      - label: "Couramment visibles **une fois l'accompagnement terminé**."
     note: "Un accompagnement dure entre 6 mois et 1 an selon le périmètre d'intervention."
 
 

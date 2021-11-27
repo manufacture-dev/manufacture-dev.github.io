@@ -117,10 +117,7 @@ results:
 
   statement:
     description: "It is measured **during and after** technical coaching accompaniment"
-    image: "images/offer/results_fr.png"
-    comments:
-      - label: "Usually visible and measurable **during accompaniment**."
-      - label: "Commonly visible **once the accompaniment is finished**."
+    image: "images/offer/results_fr.png" 
     note: "Accompaniment lasts between 6 months and 1 year depending on the scope of intervention."
 
 
