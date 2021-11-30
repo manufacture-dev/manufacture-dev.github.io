@@ -6,8 +6,14 @@ $(window).on('load', function () {
 (function ($) {
   'use strict';
 
+  // Contact form
+  let searchParams = new URLSearchParams(window.location.search)
+
+  if (searchParams.has('sent')) {
+    $('#sent').show();
+  }
   
-  // product Slider
+  // Product slider
   $('.product-image-slider').slick({
     autoplay: false,
     infinite: true,
