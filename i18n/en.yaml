@@ -23,10 +23,10 @@
   translation: "Privacy Policy"
 
 - id: "lastname"
-  translation: "Lastname"
+  translation: "Last name"
 
 - id: "firstname"
-  translation: "Firstname"
+  translation: "First name"
 
 - id: "business"
   translation: "Business"

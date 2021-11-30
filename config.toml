@@ -83,8 +83,9 @@ description = "Manufacture | Technical coaching for efficient organisations"
 author = "Manufacture"
 # currency
 currency = "$"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+# Contact form works with https://www.staticforms.xyz/
+staticforms_form_action = "https://api.staticforms.xyz/submit"
+staticforms_access_key = "475560da-0cd5-4511-9cdb-8925c30d05b6"
 
 # Preloader
 [params.preloader]
