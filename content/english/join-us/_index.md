@@ -10,7 +10,7 @@ why:
 
   label: "**Why join us?**"
   content:
-    - item: "Today, there are still taboos around agile transformations. In theory, many customers have gone there. In fact, all the boxes are not checked.Aujourd'hui, il existe encore des tabous autour des transformations agiles. Dans la théorie, de nombreux clients y sont passés. Dans les faits, toutes les cases ne sont pas cochées."
+    - item: "Today, there are still taboos around agile transformations. In theory, many customers have gone there. In fact, all the boxes are not checked."
     - item: "We are committed to raising the level of IT and helping companies increase their capacity for impact through their products."
     - item: "Figuring out how to master technique and transmission are our fundamentals."
     - item: "Democratizing the role of technical coach is one of the means."
