@@ -1,6 +1,6 @@
 ---
 title: "Manufacture | Nous rejoindre"
-image: "images/join-us/join-us.png"
+image: "images/join-us.png"
 draft: false
 
 ############################# Why ############################
@@ -61,7 +61,7 @@ characteristics:
 ############################# Form ############################
 form:
   enable: true
-  image: "images/join-us/join-us.png"
+  image: "images/join-us.png"
 
   label: "**Le métier de coach technique vous intéresse ?**"
   message: "Partagez-nous votre envie de rejoindre Manufacture"
