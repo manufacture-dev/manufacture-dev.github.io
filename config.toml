@@ -1,6 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "https://manufacture.dev/"
 title = "Manufacture | Technical coaching for efficient organisations"
+images = ['logo-white.jpg']
 theme = "terracotta"
 DefaultContentLanguage = "fr"
 # post excert
