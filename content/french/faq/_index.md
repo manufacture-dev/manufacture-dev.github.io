@@ -1,13 +1,15 @@
 ---
-title: "_Parce que le coaching technique n'est pas encore très répandu..."
+title: "Manufacture | FAQ"
+draft: false
+
+label: "_Parce que le coaching technique n'est pas encore très répandu"
+introduction: "Il nous tient à cœur de répondre aux questions que vous pourriez vous poser."
+
 button:
   enable: true 
   label: "Discutons-en"
   link: "contact"
-draft: false
 ---
-
-## Il nous tient à cœur de répondre aux questions que vous pourriez vous poser.
 
 **Qu’est-ce qu’une organisation agile efficiente ?**
 

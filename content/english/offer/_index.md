@@ -1,5 +1,5 @@
 ---
-title: "Technical coaching helps to fundamentally transform organizations"
+title: "Manufacture | Offer"
 draft: false
 
 ############################# Target ############################

@@ -34,9 +34,15 @@
 - id: "phone-number"
   translation: "Phone number"
 
+- id: "linkedin"
+  translation: "LinkedIn profile link"
+
 - id: "email"
   translation: "Email address"
-  
+
+- id: "message"
+  translation: "Your message"
+
 - id: "send"
   translation: "Send Now"
   

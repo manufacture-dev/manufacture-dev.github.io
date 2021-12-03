@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Manufacture | À propos"
 draft: false
 
 ############################# Definition ############################
@@ -110,5 +110,3 @@ values:
     label: "Discutons-en"
     link: "contact"
 ---
-
-

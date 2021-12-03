@@ -1,5 +1,5 @@
 ---
-title: "Le coaching technique contribue à transformer en profondeur les organisations"
+title: "Manufacture | Offre"
 draft: false
 
 ############################# Target ############################
