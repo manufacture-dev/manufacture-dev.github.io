@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | About"
+description: "manufacture n.: in French, represents the place of manufacturing quality products where the know-how of the workforce is essential"
 image: "images/about.png"
 draft: false
 
@@ -7,7 +8,7 @@ draft: false
 definition:
   enable: true
 
-  content: "**manufacture n. :** in French, represents the place of manufacturing quality products where the know-how of the workforce is essential"
+  content: "**manufacture n.** in French, represents the place of manufacturing quality products where the know-how of the workforce is essential"
 
 
 ############################# Inspiration ############################

@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | À propos"
+description: "manufacture n.f. lieu de fabrication de produits de qualité où le savoir-faire de la main-d’oeuvre est primordiale"
 image: "images/about.png"
 draft: false
 
@@ -7,7 +8,7 @@ draft: false
 definition:
   enable: true
 
-  content: "**manufacture n.f. :** lieu de fabrication de produits de qualité où le savoir-faire de la main-d'oeuvre est primordiale"
+  content: "**manufacture n.f.** lieu de fabrication de produits de qualité où le savoir-faire de la main-d'oeuvre est primordiale"
 
 
 ############################# Inspiration ############################
