@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Nous rejoindre"
+image: "images/join-us/join-us.png"
 draft: false
 
 ############################# Why ############################
