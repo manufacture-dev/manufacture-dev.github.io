@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Offer"
+image: "images/offer.png"
 draft: false
 
 ############################# Target ############################

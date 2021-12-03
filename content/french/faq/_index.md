@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | FAQ"
+image: "images/faq.png"
 draft: false
 
 label: "_Parce que le coaching technique n'est pas encore très répandu"

@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | À propos"
+image: "images/about.png"
 draft: false
 
 ############################# Definition ############################
