@@ -8,7 +8,7 @@ form:
   enable: true
   image: "images/contact.png"
 
-  label: "_Want to discuss technical coaching"
+  label: "_Let's talk about technical coaching!"
   content: "Whether you have a precise request, or you are curious, we are always happy to answer you."
   reason: "Reason for contacting us"
   source: "How did you find out about us?"
