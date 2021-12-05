@@ -18,16 +18,16 @@ inspiration:
 
   description: "The manufactory represents the place where a product is built in its entirety by different dedicated trades, who seek above all the **product quality** as well as its **durability over time**."
   details:
-    - item: "Qualité, savoir-faire, main d'oeuvre et durabilité sont à la base de l'efficience d'une manufacture et de sa renommée."
-    - item: "Elle sait produire en grande quantité, sans jamais détériorer la qualité."
+    - item: "Quality, know-how, workmanship and durability are the basis of the efficiency of a manufactory and of its reputation."
+    - item: "It knows how to produce in large quantities, without ever deteriorating the quality."
 
   comparison:
-    label: "Elle se situe à mi-chemin entre l'atelier d'artisanat et l'usine."
+    label: "It is located halfway between the craft workshop and the factory."
     others:
       - image: "images/about/comparison-workshop.png"
-        description: "L'artisan a un savoir-faire et une expertise, sa main d'oeuvre est essentielle. Il conçoit et développe des produits de qualité et durables mais en faible quantité de par sa petite taille."
+        description: "The craftsman has know-how and expertise, his workforce is essential. It designs and develops quality and durable products but in small quantities due to its small size."
       - image: "images/about/comparison-factory.png"
-        description: "L'usine a pour objectif de fabriquer des produits à grande échelle favorisant la productivité souvent au détriment de la qualité et où l'humain a un rôle d'opérateur sur des chaînes automatisées."
+        description: "The factory's objective is to manufacture large-scale products that promote productivity often to the detriment of quality and where humans play the role of operator on automated lines."
 
 
 ############################# Operation ############################
@@ -35,80 +35,80 @@ operation:
   enable: true
 
   insights:
-    - title: "L'humain au centre du processus de production"
+    - title: "People at the center of the production process"
       description:
-        - item: "Rejoindre une manufacture, c'est entrer au sein d'une organisation dédiée à la fabrication de produits par l'homme où **sa place reste centrale**."
+        - item: "Joining a manufactory means joining an organization dedicated to the manufacture of products by humans where **its place remains central**."
           details:
-            - item: "Contrairement à l'usine, les machines sont au service de l'homme"
-            - item: "Tout comme l'artisanat, le produit se doit d'être fonctionnel et durable, de qualité garantie"
-    - title: "La transmission au coeur de l'apprentissage"
+            - item: "Unlike the factory, machines are at the service of man"
+            - item: "Just like craftsmanship, the product must be functional and durable, of guaranteed quality"
+    - title: "Transmission at the heart of learning"
       description:
-        - item: "Pour parvenir à une maîtrise globale de la chaîne de production, chaque corps de métier va se perfectionner en apprenant de ses pairs, selon le principe de la **pédagogie active**."
-        - item: "C'est grâce à une **collaboration forte et continue** que la transmission des savoirs est assurée :"
+        - item: "To achieve overall control of the production chain, each professional body will improve itself by learning from its peers, according to the principle of **active pedagogy**."
+        - item: "It is thanks to a **strong and continuous collaboration** that the transmission of knowledge is ensured:"
           details:
-            - item: "L'apprentissage se fait **\"en faisant\"**"
-            - item: "Le cadre est **structuré**"
-            - item: "La production reste **fluide et efficiente**"
+            - item: "Learning is achieve **\"by doing\"**"
+            - item: "The framework is **structured**"
+            - item: "Production remains **fluid and efficient**"
 
 
 ############################# Testimonial ############################
 testimonial:
   enable: true
 
-  content: "Manufacture est né de la conviction qu'il est aussi possible de concilier **artisanat et industrialisation** dans le monde de l'IT & favoriser **la pédagogie active** au sein des équipes pour faire émerger des **organisations en capacité de développer et de livrer durablement des produits de qualité** dans un cercle vertueux d'amélioration continue."
+  content: "Manufacture was born from the conviction that it is also possible to reconcile **craftsmanship and industrialization** in the IT world & promote **active pedagogy** within teams to bring out **organizations with capacity to develop and deliver quality products on a sustainable basis** in a virtuous circle of continuous improvement."
 
 
 ############################# Purpose ############################
 purpose:
   enable: true
-  title: "_Qui sommes nous ?"
+  title: "_Who are we ?"
 
   description:
-    - item: "Nous sommes une **équipe de coachs techniques expérimentés** avec une forte expérience dans le monde de l'IT."
-    - item: "Nous accompagnons les entreprises **dans leur transformation** afin d'en faire des **organisations efficientes**."
+    - item: "We are a **team of experienced technical coaches** with strong experience in the IT world."
+    - item: "We support businesses **in their transformation** in order to make them **efficient organizations**."
 
 ############################# Mission ############################
 mission:
   enable: true
 
-  title: "Notre mission"
+  title: "Our mission"
   description:
-    - item: "**Accompagner** vos équipes **en immersion** à monter en compétences sur leur culture et leurs pratiques de développement pour leur **redonner la maîtrise sur les produits qu'ils développent et la passion pour leur métier**."
-    - item: "Dans cette **approche bottom-up**, nous recherchons alors des **impacts systémiques**."
+    - item: "**Support** your teams **in immersion** to build skills in their culture and development practices to **give them back control over the products they develop and passion for their profession**."
+    - item: "In this **bottom-up approach**, we are therefore looking for **systemic impacts**."
 
   ambition:
-    title: "Nos ambitions"
+    title: "Our ambitions"
     steps:
-      - description: "**Assurer la transmission** de notre culture et savoir-faire afin de répondre aux enjeux d'efficience des entreprises"
-      - description: "**Revaloriser les métiers de l'IT** car le développement logiciel est avant tout un sujet d'ingénierie complexe"
-      - description: "**Façonner des organisations apprenantes** s'appuyant sur des communautés de pratiques"
+      - description: "**Ensure the transmission** of our culture and know-how in order to meet the challenges of business efficiency"
+      - description: "**Enhance IT professions** because software development is above all a complex engineering subject"
+      - description: "**Shape learning organizations** based on communities of practice"
 
 ############################# Values ############################
 values:
   enable: true
-  title: "_Nos valeurs"
+  title: "_Our values"
 
   description:
-    - item: "Parce qu'elles constituent les **piliers de notre vision**, nos valeurs structurent le cadre et la direction de Manufacture."
-    - item: "Elles sont **notre moteur** pour nous améliorer, et nous sommes fiers de les incarner au quotidien."
-    - item: "Il nous tient à coeur de vous partager ici en quoi elles nous animent et pourquoi nous y croyons."
+    - item: "Because they constitute the **pillars of our vision**, our values structure the framework and the direction of Manufacture."
+    - item: "They are **our engine** to improve ourselves, and we are proud to embody them on a daily basis."
+    - item: "It is important to us to share with you here what drives us and why we believe in them."
 
   details:
     - label: "Leadership"
-      description: "Se servir de notre expertise technique pour **transmettre notre savoir**. Parvenir à créer de la valeur utile."
-    - label: "Ouverture d'esprit"
-      description: "S'appuyer sur la **diversité** de chacun pour aller plus loin dans la culture et les pratiques."
+      description: "Use our technical expertise to **transmit our knowledge**. Achieving to create useful value."
+    - label: "Open-mindedness"
+      description: "Rely on the **diversity** of each person to go further in culture and practices."
     - label: "Intelligence"
-      description: "Viser l'**excellence technique** tout en se renouvelant sans cesse car le développement logiciel est un sujet d'ingénierie complexe."
+      description: "Aim for **technical excellence** while constantly renewing itself because software development is a complex engineering subject."
     - label: "Courage"
-      description: "Mobiliser nos **ressources** pour redonner de la confiance aux équipes : les aider à progresser afin qu'elles puissent délivrer davantage de valeur."
-    - label: "Pragmatisme"
-      description: "Rechercher **l'efficience** sans réinventer la roue. Rester simple et concret au service des apprentissages."
-    - label: "Confiance"
-      description: "Être convaincu que le code conservera toujours une **place prépondérante** dans la création de valeur pour les entreprises et qu'il est essentiel d'en avoir une pleine maîtrise."
+      description: "Mobilize our **resources** to restore team confidence: help them progress so that they can deliver more value."
+    - label: "Pragmatism"
+      description: "Aspire **efficiency** without reinventing the wheel. Keep it simple and concrete in the service of learning."
+    - label: "Confidence"
+      description: "Be convinced that the code will always retain a **preponderant place** in the creation of value for companies and that it is essential to have full control over it."
 
   button:
     enable: true
-    label: "Discutons-en"
+    label: "Let's discuss it"
     link: "contact"
 ---
