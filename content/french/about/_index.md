@@ -35,13 +35,13 @@ operation:
   enable: true
 
   insights:
-    - title: "L'humain au centre du processus de production"
+    - title: "**L'humain au centre du processus de production**"
       description:
         - item: "Rejoindre une manufacture, c'est entrer au sein d'une organisation dédiée à la fabrication de produits par l'homme où **sa place reste centrale**."
           details:
             - item: "Contrairement à l'usine, les machines sont au service de l'homme"
             - item: "Tout comme l'artisanat, le produit se doit d'être fonctionnel et durable, de qualité garantie"
-    - title: "La transmission au coeur de l'apprentissage"
+    - title: "**La transmission au coeur de l'apprentissage**"
       description:
         - item: "Pour parvenir à une maîtrise globale de la chaîne de production, chaque corps de métier va se perfectionner en apprenant de ses pairs, selon le principe de la **pédagogie active**."
         - item: "C'est grâce à une **collaboration forte et continue** que la transmission des savoirs est assurée :"
@@ -71,13 +71,13 @@ purpose:
 mission:
   enable: true
 
-  title: "Notre mission"
+  title: "**Notre mission**"
   description:
     - item: "**Accompagner** vos équipes **en immersion** à monter en compétences sur leur culture et leurs pratiques de développement pour leur **redonner la maîtrise sur les produits qu'ils développent et la passion pour leur métier**."
     - item: "Dans cette **approche bottom-up**, nous recherchons alors des **impacts systémiques**."
 
   ambition:
-    title: "Nos ambitions"
+    title: "**Nos ambitions**"
     steps:
       - description: "**Assurer la transmission** de notre culture et savoir-faire afin de répondre aux enjeux d'efficience des entreprises"
       - description: "**Revaloriser les métiers de l'IT** car le développement logiciel est avant tout un sujet d'ingénierie complexe"

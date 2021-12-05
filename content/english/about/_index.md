@@ -35,13 +35,13 @@ operation:
   enable: true
 
   insights:
-    - title: "People at the center of the production process"
+    - title: "**People at the center of the production process**"
       description:
         - item: "Joining a manufactory means joining an organization dedicated to the manufacture of products by humans where **its place remains central**."
           details:
             - item: "Unlike the factory, machines are at the service of man"
             - item: "Just like craftsmanship, the product must be functional and durable, of guaranteed quality"
-    - title: "Transmission at the heart of learning"
+    - title: "**Transmission at the heart of learning**"
       description:
         - item: "To achieve overall control of the production chain, each professional body will improve itself by learning from its peers, according to the principle of **active pedagogy**."
         - item: "It is thanks to a **strong and continuous collaboration** that the transmission of knowledge is ensured:"
@@ -71,13 +71,13 @@ purpose:
 mission:
   enable: true
 
-  title: "Our mission"
+  title: "**Our mission**"
   description:
     - item: "**Support** your teams **in immersion** to build skills in their culture and development practices to **give them back control over the products they develop and passion for their profession**."
     - item: "In this **bottom-up approach**, we are therefore looking for **systemic impacts**."
 
   ambition:
-    title: "Our ambitions"
+    title: "**Our ambitions**"
     steps:
       - description: "**Ensure the transmission** of our culture and know-how in order to meet the challenges of business efficiency"
       - description: "**Enhance IT professions** because software development is above all a complex engineering subject"
