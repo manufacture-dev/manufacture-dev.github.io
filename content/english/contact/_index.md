@@ -9,7 +9,7 @@ form:
   image: "images/contact.png"
 
   label: "_Want to discuss technical coaching"
-  content: "Precise request or simple curiosity? We are always happy to answer you."
+  content: "Whether you have a precise request, or you are curious, we are always happy to answer you."
   reason: "Reason for contacting us"
   source: "How did you find out about us?"
   redirect_to: "contact"
