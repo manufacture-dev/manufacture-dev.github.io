@@ -142,6 +142,6 @@ outcomes:
 
   button:
     enable: true
-    label: "Parlons en"
+    label: "Let's talk about it"
     link: "contact"
 ---
