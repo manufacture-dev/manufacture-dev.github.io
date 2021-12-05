@@ -94,17 +94,17 @@ values:
     - item: "It is important to us to share with you here what drives us and why we believe in them."
 
   details:
-    - label: "Leadership"
+    - label: "**Leadership**"
       description: "Use our technical expertise to **transmit our knowledge**. Achieving to create useful value."
-    - label: "Open-mindedness"
+    - label: "**Open-mindedness**"
       description: "Rely on the **diversity** of each person to go further in culture and practices."
-    - label: "Intelligence"
+    - label: "**Intelligence**"
       description: "Aim for **technical excellence** while constantly renewing itself because software development is a complex engineering subject."
-    - label: "Courage"
+    - label: "**Courage**"
       description: "Mobilize our **resources** to restore team confidence: help them progress so that they can deliver more value."
-    - label: "Pragmatism"
+    - label: "**Pragmatism**"
       description: "Aspire **efficiency** without reinventing the wheel. Keep it simple and concrete in the service of learning."
-    - label: "Confidence"
+    - label: "**Confidence**"
       description: "Be convinced that the code will always retain a **preponderant place** in the creation of value for companies and that it is essential to have full control over it."
 
   button:

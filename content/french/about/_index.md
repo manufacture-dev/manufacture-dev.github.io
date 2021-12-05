@@ -94,17 +94,17 @@ values:
     - item: "Il nous tient à coeur de vous partager ici en quoi elles nous animent et pourquoi nous y croyons."
 
   details:
-    - label: "Leadership"
+    - label: "**Leadership**"
       description: "Se servir de notre expertise technique pour **transmettre notre savoir**. Parvenir à créer de la valeur utile."
-    - label: "Ouverture d'esprit"
+    - label: "**Ouverture d'esprit**"
       description: "S'appuyer sur la **diversité** de chacun pour aller plus loin dans la culture et les pratiques."
-    - label: "Intelligence"
+    - label: "**Intelligence**"
       description: "Viser l'**excellence technique** tout en se renouvelant sans cesse car le développement logiciel est un sujet d'ingénierie complexe."
-    - label: "Courage"
+    - label: "**Courage**"
       description: "Mobiliser nos **ressources** pour redonner de la confiance aux équipes : les aider à progresser afin qu'elles puissent délivrer davantage de valeur."
-    - label: "Pragmatisme"
+    - label: "**Pragmatisme**"
       description: "Rechercher **l'efficience** sans réinventer la roue. Rester simple et concret au service des apprentissages."
-    - label: "Confiance"
+    - label: "**Confiance**"
       description: "Être convaincu que le code conservera toujours une **place prépondérante** dans la création de valeur pour les entreprises et qu'il est essentiel d'en avoir une pleine maîtrise."
 
   button:
