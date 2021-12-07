@@ -61,7 +61,7 @@ testimonial:
 ############################# Purpose ############################
 purpose:
   enable: true
-  title: "_Qui sommes nous ?"
+  title: "_Qui sommes-nous ?"
 
   description:
     - item: "Nous sommes une **équipe de coachs techniques expérimentés** avec une forte expérience dans le monde de l'IT."
