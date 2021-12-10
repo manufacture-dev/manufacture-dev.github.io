@@ -56,14 +56,14 @@ approach:
   outcomes:
     - description: "Une plus grande maîtrise pour **fiabiliser le delivery**"
       items:
-        - name: "Le **temps** de rétroaction est **réduit**"
-        - name: "Les **processus** de livraison sont **améliorés**"
-        - name: "L'**amélioration** continue est **entretenue**"
+        - name: "Le temps de rétroaction est réduit"
+        - name: "Les processus de livraison sont améliorés"
+        - name: "L'amélioration continue est entretenue"
     - description: "Une plus grande maîtrise pour **favoriser l'impact systémique**"
       items:
-        - name: "Les équipes **partagent** leurs connaissances avec **passion**"
-        - name: "Le **rayonnement** au sein de l'organisation capte les **talents** et les **nouveaux projets**"
-        - name: "La **qualité des produits** développés attire et retient davantage de **clients**"
+        - name: "Les équipes partagent leurs connaissances avec passion"
+        - name: "Le rayonnement au sein de l'organisation capte les talents et les nouveaux projets"
+        - name: "La qualité des produits développés attire et retient davantage de clients"
 
 
 ############################# Coaching ############################

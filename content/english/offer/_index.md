@@ -56,14 +56,14 @@ approach:
   outcomes:
     - description: "Greater mastery to **make delivery more reliable**"
       items:
-        - name: "**Feedback loop** is **reduced**"
-        - name: "**Delivery processes** are **improved**"
-        - name: "**Continuous improvement** is **maintained**"
+        - name: "Feedback loop is reduced"
+        - name: "Delivery processes are improved"
+        - name: "Continuous improvement is maintained"
     - description: "Greater mastery to **foster systemic impact**"
       items:
-        - name: "The teams **share** their knowledge with **passion**"
-        - name: "The **outreach** within the organization captures **talents** and **new projects**"
-        - name: "The **quality of the products** developed attracts and retains more **customers**"
+        - name: "The teams share their knowledge with passion"
+        - name: "The outreach within the organization captures talents and new projects"
+        - name: "The quality of the products developed attracts and retains more customers"
 
 
 ############################# Coaching ############################
