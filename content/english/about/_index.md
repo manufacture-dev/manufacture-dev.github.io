@@ -1,6 +1,6 @@
 ---
 title: "Manufacture | About"
-description: "manufacture n. in French, represents the place of manufacturing quality products where the know-how of the workforce is essential"
+description: "Manufacture was born from the conviction that it is also possible to reconcile craftsmanship and industrialization in the IT world & promote active pedagogy within teams to bring out organizations with capacity to develop and deliver quality products on a sustainable basis in a virtuous circle of continuous improvement."
 image: "images/about.png"
 draft: false
 

@@ -1,6 +1,6 @@
 ---
 title: "Manufacture | À propos"
-description: "manufacture n.f. lieu de fabrication de produits de qualité où le savoir-faire de la main-d’oeuvre est primordiale"
+description: "Manufacture est né de la conviction qu'il est aussi possible de concilier artisanat et industrialisation dans le monde de l'IT & favoriser la pédagogie active au sein des équipes pour faire émerger des organisations en capacité de développer et de livrer durablement des produits de qualité dans un cercle vertueux d'amélioration continue."
 image: "images/about.png"
 draft: false
 
