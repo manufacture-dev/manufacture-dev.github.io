@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Privacy policy"
+description: "At Manufacture, protecting your personal data is our priority."
 draft: false
 
 cookieConsent:

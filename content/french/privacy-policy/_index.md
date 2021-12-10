@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Politique de confidentialité"
+description: "Chez Manufacture, la protection de vos données personnelles est une priorité."
 draft: false
 
 cookieConsent:
