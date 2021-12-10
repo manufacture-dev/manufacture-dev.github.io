@@ -21,13 +21,13 @@ target:
 
   facts:
     - name: "La performance de **votre IT est en baisse**"
-      image: "images/fact-performance.svg"
+      image: "images/fact-performance.png"
     - name: "Vos équipes **perdent leur motivation**"
-      image: "images/fact-motivation.svg"
+      image: "images/fact-motivation.png"
     - name: "Toucher au système est **coûteux et risqué**"
-      image: "images/fact-system.svg"
+      image: "images/fact-system.png"
     - name: "Le pilotage de votre organisation est **complexe**"
-      image: "images/fact-organisation.svg"
+      image: "images/fact-organisation.png"
 
 
 ############################# Action ############################

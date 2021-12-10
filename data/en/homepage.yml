@@ -21,13 +21,13 @@ target:
 
   facts:
     - name: "Your **IT performance is declining**"
-      image: "images/fact-performance.svg"
+      image: "images/fact-performance.png"
     - name: "Your teams **lose their motivation**"
-      image: "images/fact-motivation.svg"
+      image: "images/fact-motivation.png"
     - name: "Handling the system is **costly and risky**"
-      image: "images/fact-system.svg"
+      image: "images/fact-system.png"
     - name: "Steering your organization is **complex**"
-      image: "images/fact-organisation.svg"
+      image: "images/fact-organisation.png"
 
 
 ############################# Action ############################
