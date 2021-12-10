@@ -130,16 +130,16 @@ outcomes:
   delivery:
     description: "La **capacité à délivrer des équipes** est améliorée"
     items:
-      - name: "Un changement **culturel** s'opère au sein de l'équipe"
-      - name: "Elle monte en compétences sur ses **pratiques** de développement"
-      - name: "Elle a plus d'**engagement** et une plus grande **autonomie**"
+      - name: "Un changement culturel s'opère au sein de l'équipe"
+      - name: "Elle monte en compétences sur ses pratiques de développement"
+      - name: "Elle a plus d'engagement et une plus grande autonomie"
 
   passion:
     description: "La **passion des équipes** est retrouvée"
     items:
-      - name: "La maîtrise renforce **l'engagement**"
-      - name: "Les équipes **partagent** leur expérience et la valeur acquises grâce aux nouveaux apprentissages"
-      - name: "Une **culture d'amélioration** s'installe durablement"
+      - name: "La maîtrise renforce l'engagement"
+      - name: "Les équipes partagent leur expérience et la valeur acquises grâce aux nouveaux apprentissages"
+      - name: "Une culture d'amélioration s'installe durablement"
 
   button:
     enable: true

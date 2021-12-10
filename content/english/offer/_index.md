@@ -130,16 +130,16 @@ outcomes:
   delivery:
     description: "The **ability of teams to deliver** is improved"
     items:
-      - name: "A **cultural** change is taking place within the team"
-      - name: "The team is upskilling on its **development practices**"
-      - name: "The team has more **commitment** and greater **autonomy**"
+      - name: "A cultural change is taking place within the team"
+      - name: "The team is upskilling on its development practices"
+      - name: "The team has more commitment and greater autonomy"
 
   passion:
     description: "The **passion of the teams** is recovered"
     items:
-      - name: "Mastery reinforces **commitment**"
-      - name: "The teams **share** their experience and the value acquired through what they learned"
-      - name: "A **culture of improvement** is establishing over the long term"
+      - name: "Mastery reinforces commitment"
+      - name: "The teams share their experience and the value acquired through what they learned"
+      - name: "A culture of improvement is establishing over the long term"
 
   button:
     enable: true
