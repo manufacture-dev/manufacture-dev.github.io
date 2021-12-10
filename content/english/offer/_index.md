@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Offer"
+description: "Respond to the challenges of companies who want to transform themselves sustainably."
 image: "images/offer.png"
 draft: false
 

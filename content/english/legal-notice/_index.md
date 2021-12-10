@@ -1,5 +1,6 @@
 ---
-title: "Legal Notice"
+title: "Manufacture | Legal Notice"
+description: ""
 draft: false
 ---
 

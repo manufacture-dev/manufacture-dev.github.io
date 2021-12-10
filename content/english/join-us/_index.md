@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Join us"
+description: "Want to share your passion and have more impact? Manufacture is recruiting technical coaches!"
 image: "images/join-us.png"
 draft: false
 

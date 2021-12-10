@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Nous rejoindre"
+description: "Envie de transmettre votre passion et d'avoir plus d'impact ? Manufacture recrute des coachs techniques !"
 image: "images/join-us.png"
 draft: false
 

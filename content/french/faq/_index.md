@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | FAQ"
+description: "Parce que le coaching technique n'est pas encore très répandu, il nous tient à cœur de répondre aux questions que vous pourriez vous poser."
 image: "images/faq.png"
 draft: false
 

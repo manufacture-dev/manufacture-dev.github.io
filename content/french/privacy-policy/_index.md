@@ -1,8 +1,9 @@
 ---
-title: "Politique de confidentialité"
+title: "Manufacture | Politique de confidentialité"
+draft: false
+
 cookieConsent:
     url: "javascript:openAxeptioCookies()"
-draft: false
 ---
 
 Chez Manufacture, la protection de vos données personnelles est une priorité.

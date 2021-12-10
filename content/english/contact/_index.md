@@ -1,5 +1,6 @@
 ---
 title: "Manufacture | Contact"
+description: "Whether you have a precise request, or you are curious, we are always happy to answer you."
 image: "images/contact.png"
 draft: false
 

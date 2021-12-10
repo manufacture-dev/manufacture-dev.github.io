@@ -1,5 +1,5 @@
 ---
-title: "Mentions légales"
+title: "Manufacture | Mentions légales"
 draft: false
 ---
 
