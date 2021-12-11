@@ -1,5 +1,5 @@
 ---
-title: "Manufacture | Mentions légales"
+title: "Mentions légales"
 description: "Le site internet https://manufacture.dev/ est édité par la société NORRECRAFT, société par actions simplifiée à associé unique au capital social de 1000 euros, immatriculée au RCS de Paris sous le numéro 843 666 637"
 draft: false
 ---

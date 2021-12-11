@@ -1,5 +1,5 @@
 ---
-title: "Manufacture | Legal Notice"
+title: "Legal Notice"
 description: "The https://manufacture.dev/ website is published by the company NORRECRAFT, simplified joint stock company with a sole shareholder with a share capital of 1,000 euros, registered at the Registry of Trade and Companies of Paris under the number 843 666 637"
 draft: false
 ---

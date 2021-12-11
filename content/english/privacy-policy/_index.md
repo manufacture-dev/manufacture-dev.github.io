@@ -1,5 +1,5 @@
 ---
-title: "Manufacture | Privacy policy"
+title: "Privacy policy"
 description: "At Manufacture, protecting your personal data is our priority."
 draft: false
 
