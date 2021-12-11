@@ -76,7 +76,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.svg"
+logo = "images/logo.png"
 logo_width = "250px"
 icon = "images/icon.png"
 icon_width = "65px"
