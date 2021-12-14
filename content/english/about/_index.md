@@ -64,8 +64,8 @@ purpose:
   title: "_Who are we ?"
 
   description:
-    - item: "We are a **team of experienced technical coaches** with strong experience in the IT world."
-    - item: "We support businesses **in their transformation** in order to make them **efficient organizations**."
+    - item: "We are a team of experienced technical coaches with strong experience in the IT world."
+    - item: "We support businesses in their transformation in order to make them efficient organizations."
 
 ############################# Mission ############################
 mission:

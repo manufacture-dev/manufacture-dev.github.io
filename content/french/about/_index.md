@@ -64,8 +64,8 @@ purpose:
   title: "_Qui sommes-nous ?"
 
   description:
-    - item: "Nous sommes une **équipe de coachs techniques expérimentés** avec une forte expérience dans le monde de l'IT."
-    - item: "Nous accompagnons les entreprises **dans leur transformation** afin d'en faire des **organisations efficientes**."
+    - item: "Nous sommes une équipe de coachs techniques expérimentés avec une forte expérience dans le monde de l'IT."
+    - item: "Nous accompagnons les entreprises dans leur transformation afin d'en faire des organisations efficientes."
 
 ############################# Mission ############################
 mission:
