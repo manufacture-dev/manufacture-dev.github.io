@@ -34,43 +34,43 @@ link = "plugins/slick/slick.min.js"
 # homepage section menu
 [[menu.main]]
 name = "home"
-URL = "/"
+PageRef = "/"
 weight = 1
 
 [[menu.main]]
 name = "offer"
-URL = "offer"
+PageRef = "offer"
 weight = 2
 
 [[menu.main]]
 name = "about"
-URL = "about"
+PageRef = "about"
 weight = 3
 
 [[menu.main]]
 name = "faq"
-URL = "faq"
+PageRef = "faq"
 weight = 4
 
 [[menu.main]]
 name = "join-us"
-URL = "join-us"
+PageRef = "join-us"
 weight = 4
 
 [[menu.main]]
 name = "contact"
-URL = "contact"
+PageRef = "contact"
 weight = 5
 
 # footer menu
 [[menu.footer]]
 name = "legal-notice"
-URL = "legal-notice"
+PageRef = "legal-notice"
 weight = 3
 
 [[menu.footer]]
 name = "privacy-policy"
-URL = "privacy-policy"
+PageRef = "privacy-policy"
 weight = 4
 
 
