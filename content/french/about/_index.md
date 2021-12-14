@@ -73,8 +73,8 @@ mission:
 
   title: "**Notre mission**"
   description:
-    - item: "**Accompagner** vos équipes **en immersion** à monter en compétences sur leur culture et leurs pratiques de développement pour leur **redonner la maîtrise sur les produits qu'ils développent et la passion pour leur métier**."
-    - item: "Dans cette **approche bottom-up**, nous recherchons alors des **impacts systémiques**."
+    - item: "Accompagner vos équipes en **immersion** à monter en compétences sur leur culture et leurs pratiques de développement pour leur redonner la **maîtrise** sur les produits qu'ils développent et la **passion** pour leur métier."
+    - item: "Dans cette approche bottom-up, nous recherchons alors des impacts systémiques."
 
   ambition:
     title: "**Nos ambitions**"
