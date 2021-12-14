@@ -13,9 +13,9 @@ target:
     description: "According to Gartner, the most successful software engineering teams get results:"
     figures:
       - number: "53%"
-        details: "superior in terms of **experience** and **productivity** of their **employees**"
+        details: "superior in terms of experience and productivity of their employees"
       - number: "37%"
-        details: "superior in terms of **attraction** and **loyalty** of their **customers**"
+        details: "superior in terms of attraction and loyalty of their customers"
     source:
       label: "*Source : 2020 Gartner Software Engineering Teams Survey"
       url: "https://www.gartner.com/smarterwithgartner/3-ways-to-make-your-software-engineering-team-50-more-effective"
@@ -25,7 +25,7 @@ target:
 dimensions:
   enable: true
 
-  description: "Technical coaching responds to the challenges of companies who want **to transform themselves sustainably** by acting on 4 dimensions:"
+  description: "Technical coaching responds to the challenges of companies who want to transform themselves **sustainably** by acting on 4 dimensions:"
 
   levels:
     - name: "Team"

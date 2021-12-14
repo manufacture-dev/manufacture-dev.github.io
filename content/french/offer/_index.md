@@ -13,9 +13,9 @@ target:
     description: "Selon le Gartner, les équipes d'ingénierie logicielle les plus performantes obtiennent des résultats :"
     figures:
       - number: "53%"
-        details: "supérieurs en termes d'**expérience** et de **productivité** de leurs **employés**"
+        details: "supérieurs en termes d'expérience et de productivité de leurs employés"
       - number: "37%"
-        details: "supérieurs en termes d'**attraction** et de **fidélisation** de leurs **clients**"
+        details: "supérieurs en termes d'attraction et de fidélisation de leurs clients"
     source:
       label: "*Source : 2020 Gartner Software Engineering Teams Survey"
       url: "https://www.gartner.com/smarterwithgartner/3-ways-to-make-your-software-engineering-team-50-more-effective"
@@ -25,7 +25,7 @@ target:
 dimensions:
   enable: true
 
-  description: "Le coaching technique répond aux enjeux des entreprises qui veulent **se transformer durablement** en agissant sur 4 dimensions :"
+  description: "Le coaching technique répond aux enjeux des entreprises qui veulent se transformer **durablement** en agissant sur 4 dimensions :"
 
   levels:
     - name: "Équipe"
