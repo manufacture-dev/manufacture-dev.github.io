@@ -50,8 +50,8 @@ approach:
   statement:
     description: "Pour que vos équipes retrouvent **la pleine maîtrise de leur code** et **de leur pipeline :**"
     actions:
-      - description: "Nous insufflons **une culture de l'amélioration continue** au sein des équipes et **les faisons monter en compétences** sur leurs pratiques de développement"
-      - description: "Nous intervenons **en immersion dans les équipes** et développons avec elles **les fonctionnalités du backlog** directement sur leur base de code"
+      - description: "Nous insufflons une culture de l'**amélioration continue** au sein des équipes et les faisons monter en compétences sur leurs pratiques de développement"
+      - description: "Nous intervenons en **immersion** dans les équipes et développons avec elles les fonctionnalités du backlog directement sur leur base de code"
 
   outcomes:
     - description: "Une plus grande maîtrise pour **fiabiliser le delivery**"

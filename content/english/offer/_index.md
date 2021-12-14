@@ -50,8 +50,8 @@ approach:
   statement:
     description: "So that your teams regain **full mastery of their code** and **of their pipeline:**"
     actions:
-      - description: "We instill **a culture of continuous improvement** within teams and **increase their skills** in their development practices"
-      - description: "We work **in immersion in the teams** and develop with them **the functionalities of the backlog** directly on their code base"
+      - description: "We instill a culture of **continuous improvement** within teams and increase their skills in their development practices"
+      - description: "We work in **immersion** in the teams and develop with them the functionalities of the backlog directly on their code base"
 
   outcomes:
     - description: "Greater mastery to **make delivery more reliable**"
