@@ -55,7 +55,7 @@ operation:
 testimonial:
   enable: true
 
-  content: "Manufacture was born from the conviction that it is also possible to reconcile **craftsmanship and industrialization** in the IT world & promote **active pedagogy** within teams to bring out **organizations with capacity to develop and deliver quality products on a sustainable basis** in a virtuous circle of continuous improvement."
+  content: "**Manufacture** was born from the conviction that it is also possible to reconcile craftsmanship and industrialization in the IT world & promote **active pedagogy** within teams to bring out organizations with capacity to develop and deliver **quality products** on a sustainable basis in a virtuous circle of continuous improvement."
 
 
 ############################# Purpose ############################
