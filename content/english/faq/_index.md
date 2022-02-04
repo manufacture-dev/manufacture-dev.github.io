@@ -13,153 +13,187 @@ button:
   link: "contact"
 ---
 
-**What is an efficient agile organization?**
+**What is an efficient organization?**
 
-An organization capable of producing and delivering quality products without it being an event.
+It is an agile and product-oriented organization, which applies the principles of Lean Management and the practices of Continuous Delivery. Its organizational culture is generative and its ability to deliver is effective.
 
-An organization with a culture of continuous improvement and sharing within teams.
+Efficient organizations share several characteristics:
 
-**What does technical coaching consist of?**
+- Cooperation and collaboration between multidisciplinary teams is strong
 
-Technical coaching aims to increase the skills of teams in mastering their code and their pipeline to make their delivery more reliable.
+- The responsibilities of each team are shared and concern everyone
+
+- The problems encountered are escalated without fear and are valued
+
+- Team experimentation is encouraged
+
+**What is technical coaching?**
+
+Technical coaching aims to improve the performance of the organization by focusing on the culture and practices of the teams by supporting them in their skills development for better control of their code and their pipeline.
+
+The coach's scope of intervention is wide: participation in the reorganization of teams, processes and interactions based on the coach's observations (in close collaboration with management). It accompanies individuals and the organization in the process of change and optimizes the use by the teams of the support and service levers internal to the organization.
 
 **What is a technical coach?**
 
-A technical coach is a training developer with solid technical expertise and coaching skills supported by his passion for his profession and his desire to transmit his knowledge and his culture to others.
+A technical coach has both a strong agile culture and solid technical expertise. Centered on the human being, he turned to coaching to transmit his knowledge, the passion for his profession and his culture.
 
-**What is the difference between a technical coach and an agile (flow) coach?**
+**What is the role of a technical coach?**
 
-Both are involved in teams but the difference can be appreciated in the scope of action.
+Its role is to intervene with the teams to transmit good practices, the correct use of tools and the right culture in order to guide the organization towards sustainable efficiency:
 
-The agile coach is involved in the organization of the team's work and therefore will work on the team's culture (agile)
+- Increase the skills of the teams on their development practices (tests, clean code, refactoring, TDD, Clean Architecture, etc.) and make them gain autonomy
 
-The technical coach will act on work practices (code, pipeline) and team culture (craft and devops)
+- Improve the organization of the team's work by promoting collaboration between the different actors (business and technical) through the implementation of BDD and DDD practices
 
-The 2 are complementary, but in general, the technical coach intervenes after the intervention of the agile coach, once it becomes necessary to put the focus back on people and work practices when the work organization is resolved.
+- Improve the ability of teams to deliver by applying Continuous Delivery practices in order to streamline the value chain of the products they develop
 
-**What is the difference between a technical coach and an organizational coach (scale)?**
+- Measure the performance of the Delivery teams in connection with the practices implemented in order to support change
 
-The difference can be appreciated in the way of intervening:
+- Instill a culture of continuous improvement within the organization by creating communities of practice for developers and promoting sharing between technical profiles
 
-The organizational coach intervenes at the top management level to have an impact at the team level (Top Down approach)
+Because it is transverse to the organization, the technical coach can act either at the level of top management (top-down approach) or at the level of the team (bottom-up approach), in order to have a systemic impact. global.
 
-The technical coach intervenes in immersion within the teams for in-depth work. He will rely on them to seek the systemic impact (Bottom Up approach)
+**How does coaching adapt to the context of each team?**
 
-The 2 are complementary and we often have to work together in our missions.
+Each team is different: some are agile, others are not yet. They can be product oriented while others still operate in project mode. Sometimes they are very isolated or on the contrary they are multidisciplinary teams.
 
-**What is the role of the technical coach?**
+The maturity of the teams in terms of culture and practices is heterogeneous and that is why we adapt our coaching to each context.
 
-Its role is to intervene with the teams to transmit good practices, the good use of tools and the good culture in order to orient the organization towards sustainable efficiency:
+We always intervene in an iterative manner in order to be able to regularly measure our impact on the performance of the team through the quality of product developments and its ability to deliver.
 
-- Help teams gain autonomy over their practices
+Our coaching approach adapts continuously in a pragmatic way according to the needs and context of each team, both in terms of timing and posture of the coach.
 
-- Improve the capacity of teams to deliver and therefore their performance
+Sometimes it's not the right time to coach a team for different reasons:
 
-- Support change
+- Reluctance and fear of coaching, difficulty in establishing a healthy relationship of trust
 
-- Instill a culture of continuous improvement and sharing within the organization
+- Low interest of the team on the new practices proposed
 
-**What are the characteristics of the teams accompanied by a technical coach?**
+- Peak of activity with short deadlines
 
-They are agile, product-oriented and multidisciplinary teams.
+- Value of coaching not perceived by team management
 
-**Is agility a prerequisite?**
+The posture of the coach varies according to the needs:
 
-Yes, whether it is in progress or completed.
+- Tech lead / Role model to lead by example and to address technical issues that the team cannot solve alone
 
-It allows the coach to intervene in an iterative manner and to be able to measure the impacts of continuous coaching on the quality of product developments and on the efficiency of delivery.
+- Mentor to more junior profiles who need to improve their skills and gain control and autonomy
 
-**What does the technical coach do with the teams?**
+- Coach to introduce new practices within the team and support its progress
 
-It develops with them the functionalities of the backlog directly on their code base
+To meet these challenges, we operate iteratively with In & Out cycles, which creates a dynamic of continuous improvement within the team:
 
-It improves and implements CI / CD processes and practices
+- By setting an ambition at the start of the “in” cycle and objectives to be achieved at the end of the cycle
+
+- By measuring the results at the end of each cycle
+
+- By adjusting the accompaniment (postures of the coach, projects carried out, attendance time, etc.)
+
+Our support is also based on this iterative approach, which makes it possible to readjust our scope of action, the number of teams coached, and to address more cross-functional subjects.
+
+**How does the technical coach intervene within the teams?**
+
+He intervenes in immersion within the teams in order to be as close as possible to their daily life and he will rely on their backlog to propose new practices which will be adapted to the problems they encounter.
+
+For each new practice introduced, the technical coach will start by introducing it in a controlled environment (learning hours, kata, live coding). Then, in order for the team to gain competence in this practice, he will gradually introduce it into his daily life on his ongoing development tasks. For the practice to be fully integrated, it takes time and repetition.
+
+The technical coach will alternate two complementary approaches:
+
+- Group coaching (in mob programming), the coach works on a feature of the backlog, to share the thinking in terms of design and architecture, their testing and delivery strategy, etc.
+
+- Individual coaching (in pair programming), the coach focuses on a problem to be solved or a practice to be deepened.
 
 **How many teams can a technical coach support?**
 
-A maximum of 1 to 3 teams in parallel over the same period of time, depending on the context and the size of the teams.
+Depending on their size, their availability and their motivation, the number of teams that the technical coach is required to support varies according to the context and the environment of his mission.
 
-At the start of the immersion phase, it is best to start with one team and then gradually increase the number of teams over subsequent cycles.
+At the start of the support, it is preferable to start with a single team and then gradually increase this number over the following cycles. The In & Out cycles allow the coach to support the teams in parallel and gives him greater flexibility in his intervention.
 
-It is recommended not to exceed 4 teams supported in parallel in order to maintain flexibility in the event of unforeseen events (management of unforeseen events, focus on a particular team if necessary, etc.).
+We recommend not to exceed 3 teams accompanied in parallel in order to maintain flexibility in the event of hazards (emergency management, focus on a particular team if necessary, etc.) but also to allow the coach to contribute to cross-functional projects (create a coaching service offer, deploy performance measurement indicators, raise awareness among businesses and top management, etc.)
+
+It is important to keep in mind that although the mandate of the technical coach is clear at the start of the mission, he will have to evolve during his support in order to be able to adapt to the changing needs of the client and always in a search for systemic impact.
 
 **How do I know if my teams need technical coaching?**
 
-1. You notice a loss of control over your delivery (more and more bugs and support which complicate deliveries in Production).
+In order to help you determine if your teams need to be accompanied by a technical coach, we invite you to observe the difficulties they encounter and the pain they feel.
 
-2. You struggle to deliver more often and with better quality.
+If you find that your teams:
 
-3. Your teams are finding it difficult to be responsible over the entire delivery chain (Dev to Prod) in this new organization.
+- Have more and more difficulties to deliver frequently and that each delivery is more and more painful
 
-This is the time to step in to restore their confidence and control, recreate commitment, passion and retain talent.
+- Produce code whose quality deteriorates over time and their technical debt continues to grow.
 
-**I don't know which team to support?**
+- That despite a new organization of work, they continue to feel the impression of working in silos and that they are unable to appropriate the new roles and responsibilities assigned to them
 
-The choice of the first team to support is important.
+- That they gain new responsibilities in the value chain of the products they develop but fail to develop sufficient skills to meet them.
 
-2 prerequisites are therefore recommended to choose your team:
+This is when you have to step in and call on a technical coach to help you restore their confidence, regain control of their code and their delivery, create commitment, passion and retain talent.
+
+**How to determine the teams to support?**
+
+To choose the right teams to support, it is essential to take into account several prerequisites:
 
 - Favor the most motivated teams because a team that wants to improve will give itself the means to do so.
 
-- Check management's support for their team so that they can have the necessary time to improve their practices (reduce the number of delivery constraints for the team concerned).
+- Check the support of the PO and the manager for their team so that they can have the necessary time to improve their practices (reduce the number of delivery constraints for the team concerned).
 
-**My teams are not motivated, what to do?**
+It is also important to choose the first team that will be accompanied because it is the team that will be shown as an example and which will be shown as an example by the management and observed by the other teams.
 
-It is important to raise awareness among demotivated teams in order to gradually arouse their interest:
+**My teams are not motivated, what should I do?**
 
-- Encourage the sharing of the 1st team supported on their learning and difficulties within communities of practice
+You have just called on a technical coach after having succeeded in convincing top management to invest in this support and yet your teams are not motivated by technical coaching.
+This is perfectly normal !
 
-- Invite teams to learning hours or Mob programming sessions
+Although you make the same observations on the difficulties and the pains that your teams encounter, it can be very difficult for a team to accept being helped because it can be experienced as an admission of failure.
 
-This will be a real trigger thanks to the influence on other teams and the organization, which will facilitate the mandate with management and support for new teams.
+The coach can also sometimes be seen as an emissary who comes to monitor what the teams are doing and then reports it to management. A team does not necessarily want to reveal its weaknesses and will naturally protect itself by closing the door to technical coaching.
+
+It is therefore essential to raise awareness among the teams in order to gradually arouse their interest:
+
+- By promoting the sharing of the first teams supported on their learning but also the difficulties they encountered with the rest of the organization through the communities of practice
+
+- By opening up to other teams the work sessions carried out with the supported teams in order to reassure the approach and show the value brought to the teams
+
+This will be a real trigger thanks to the influence on the other teams and the organization, which will facilitate the coach's mandate with the management and will allow the next teams to be supported with confidence.
 
 **What are the key success factors of technical coaching?**
 
-1. Relays of trust within the team.
+For technical coaching to bring all the expected value, we have identified 3 key success factors that we respect and apply in the context of our missions.
 
-2. Sharing what has been learned to demonstrate the value of new practices.
+1. Diagnose the level of maturity of the teams and identify the relays of confidence within the supported teams so that the technical coach has all the cards in hand to carry out his support and that he is able to convince the team to investing time and energy in new learning.
 
-3. The factual measure:
+2. Factually measure the results of technical coaching:
 
-  - The sustainability of coaching (learning and mastery of practices by teams, autonomy, etc.).
+  - its outputs: means put in place through new coaching practices (learning and mastery of practices by teams, autonomy, etc.)
 
-  - Impacts on the team's delivery capacity and on its performance.
+  - its outcomes: the results on performance (impacts on the team's delivery capacity and on its performance)
 
-**What if I did not reach my goals during the coaching?**
+3. Share what has been learned to demonstrate the value of new practices in order to seek a systemic impact within the organization by seeking to establish a true generative culture conducive to improvement.
 
-It is expected that the coaching system will be reviewed regularly between the coach and management (quarterly for example) to ensure that we are still aligned with ambitions and objectives.
+**The objectives change or the needs of the teams grow, how does the technical coaching adapt?**
 
-This thus makes it possible to revise upwards or downwards the number of coaches working on the perimeter according to the new needs which would have been expressed during the first cycles of support.
+Technical coaching is agile in nature and works iteratively.
 
-**What are the management's commitments to its coached teams?**
+The system is reviewed regularly between the coach and management (quarterly for example) to ensure that we are always aligned on ambitions, scopes and objectives.
 
-You agree to:
+This thus makes it possible to revise upwards or downwards the number of coaches intervening on the perimeter according to the new needs which would have been expressed during the first cycles of accompaniment.
 
-1. Bring ambition to your organization to facilitate the coach's intervention within teams.
+**What is the role of management towards the coached teams?**
 
-2. Devote time and a lot of practice to learning to have a lasting impact.
+The role that management plays is essential in the success of technical coaching support because it is he who will:
 
-3. Support your teams in their learning: it is not linear but means that the team is progressing.
+- Bring the ambition to the organization to facilitate the intervention of the coach within the teams.
 
-**What is the decisional latitude of the technical coach?**
+- Allow teams to devote time to learning new practices to have a lasting impact.
 
-When experimenting with practices and approaches in the field, the technical coach may need to reorganize the teams but also the processes and interactions based on observation. This is done in close collaboration with management.
+- Support the teams in their learning: sometimes, the teams can get discouraged during the learning process, it is necessary that the management come in support to sustain their efforts over time.
 
-He always supports people in the change process and optimizes the use by the teams of internal support and service levers in the organization.
-
-**I am seeing a slowdown in the performance of my teams, is this normal?**
+**Is it normal to observe a drop in team performance during technical coaching?**
 
 Learning new practices is far from linear.
-The euphoria of the start can run out of steam if it is not supported by efforts of training.
 
-This shortness of breath is commonly referred to as the "learning trough".
-It is manifested by a decrease in the general performance of the team level.
+The euphoria of the start can run out of steam if it is not supported by training efforts. This shortness of breath is commonly called “the learning trough”. It manifests itself in a drop in the general performance of the level of the team.
 
-The common mistake is to conclude that the learning method is not working and that we have to go back to the front.
-This is exactly when you shouldn't give up anything!
+The common mistake is to conclude that the learning method is not working and that you have to go back to the front. This is exactly when you should never give up! The hollow means precisely that the methods are being acquired and that there are adjustments to be made.
 
-The hollow means precisely that the methods are being acquired and that there are adjustments to be made.
-
-Management support for its teams is decisive in encouraging them to persevere in their skills development.
-
-Perseverance will thus lead the teams to significantly exceed their previous level!
+The support of the technical coach but also of the management with his teams is decisive in encouraging them to persevere in their increase in skills. It is perseverance that will lead the teams to significantly exceed their previous level!

@@ -13,153 +13,187 @@ button:
   link: "contact"
 ---
 
-**Qu’est-ce qu’une organisation agile efficiente ?**
+**Qu’est-ce qu’une organisation efficiente ?**
 
-Une organisation en capacité de produire et livrer des produits de qualité sans que ce soit un évènement.
+C’est une organisation agile et orientée produit, qui applique les principes du Lean Management et les pratiques du Continuous Delivery. Sa culture d’organisation est générative et sa capacité à livrer est performante.
 
-Une organisation avec une culture de l’amélioration continue et du partage au sein des équipes.
+Les organisations efficientes partagent plusieurs caractéristiques :
+
+- La coopération et collaboration entre équipes pluridisciplinaires est forte
+
+- Les responsabilités de chaque équipe sont partagées et font l’affaire de tous
+
+- Les problèmes rencontrés sont remontés sans crainte et sont valorisés
+
+- L’expérimentation des équipes est encouragée
 
 **En quoi consiste le coaching technique ?**
 
-Le coaching technique vise à faire monter en compétences les équipes sur la maîtrise de leur code et de leur pipeline pour fiabiliser leur delivery.
+Le coaching technique vise à améliorer la performance de l’organisation en mettant le focus sur la culture et les pratiques des équipes en les accompagnant dans leur montée en compétences pour une meilleure maîtrise de leur code et de leur pipeline.
+
+Le périmètre d'intervention du coach est large : participation à la réorganisation des équipes, des processus et des interactions en fonction des observations du coach (en étroite collaboration avec le management). Il accompagne les individus et l’organisation dans le processus de changement et optimise l’usage par les équipes des leviers de support et de service internes à l’organisation.
 
 **Qu’est-ce qu’un coach technique ?**
 
-Un coach technique est un développeur de formation avec une solide expertise technique et des compétences en coaching soutenues par sa passion pour son métier et son envie de transmettre ses connaissances et sa culture aux autres.
+Un coach technique possède à la fois une forte culture agile et une solide expertise technique. Centré sur l’humain, il s’est tourné vers le coaching pour transmettre ses connaissances, la passion pour son métier et sa culture.
 
-**Quelle est la différence entre un coach technique et un coach agile (flow) ?**
-
-Les 2 interviennent au sein des équipes mais la différence s’apprécie sur le périmètre d’action.
-
-Le coach agile intervient sur l’organisation du travail de l’équipe et donc va travailler la culture de l’équipe (agile)
-
-Le coach technique va agir sur les pratiques de travail (le code, le pipeline) et la culture de l’équipe (craft et devops)
-
-Les 2 sont complémentaires, mais en général, le coach technique intervient après l’intervention du coach agile, une fois qu’il devient nécessaire de remettre le focus sur l’humain et les pratiques de travail quand l’organisation du travail est résolue.
-
-**Quelle est la différence entre un coach technique et un coach organisationnel (scale) ?**
-
-La différence s’apprécie sur la manière d’intervenir :
-
-Le coach organisationnel intervient au niveau du top management pour avoir un impact au niveau des équipes (approche Top Down)
-
-Le coach technique intervient en immersion au sein des équipes pour un travail en profondeur. Il va s’appuyer sur elles pour chercher l’impact systémique (approche Bottom Up)
-
-Les 2 sont complémentaires et nous sommes souvent amenés à travailler ensemble dans nos missions.
-
-**Quel est le rôle du coach technique ?**
+**Quel est le rôle d’un coach technique ?**
 
 Son rôle est d’intervenir auprès des équipes pour transmettre les bonnes pratiques, le bon usage des outils et la bonne culture afin d’orienter l’organisation vers une efficience durable :
 
-- Faire gagner en autonomie les équipes sur leurs pratiques
+- Faire monter en compétence les équipes sur leurs pratiques de développement (tests, clean code, refactoring, TDD, Clean Architecture, etc.) et les faire gagner en autonomie
 
-- Améliorer la capacité des équipes à délivrer et donc leur performance
+- Améliorer l’organisation du travail de l’équipe en favorisant la collaboration entre les différents acteurs (métiers et technique) à travers la mise en oeuvre des pratiques BDD et DDD
 
-- Accompagner le changement
+- Améliorer la capacité des équipes à délivrer en appliquant les pratiques du Continuous Delivery afin de fluidifier la chaîne de valeur des produits qu’elles développent
 
-- Insuffler une culture de l’amélioration continue et du partage au sein de l’organisation
+- Mesurer la performance du Delivery des équipes en lien avec les pratiques mise en oeuvre afin d’accompagner le changement
 
-**Quelles sont les caractéristiques des équipes accompagnées par un coach technique ?**
+- Insuffler une culture d’amélioration continue au sein de l’organisation en créant des communautés de pratiques pour les développeurs et en favorisant le partage entre profils techniques
 
-Ce sont des équipes agiles, orientées produit et pluridisciplinaires.
+Du fait qu’il soit transverse à l’organisation, le coach technique peut agir soit au niveau du top management (approche top-down) soit au niveau de l’équipe (approche bottom-up), afin d'avoir un impact systémique global.
 
-**L’agilité est-elle un pré-requis ?**
+**Comment le coaching s’adapte au contexte de chaque équipe ?**
 
-Oui, qu’elle soit en cours ou terminée.
+Chaque équipe est différente : certaines sont agiles, d’autres ne le sont pas encore. Elles peuvent être orientées produit tandis que d'autres fonctionnent encore en mode projet. Parfois elles sont très silotées ou au contraire ce sont des équipes pluridisciplinaires.
 
-Elle permet au coach d’intervenir de manière itérative et de pouvoir mesurer les impacts du coaching en continu sur la qualité des développements produits et sur l’efficience du delivery.
+La maturité des équipes en termes de culture et de pratiques est hétérogène et c’est pour cela que nous adaptons notre coaching à chaque contexte.
 
-**Que fait le coach technique avec les équipes ?**
+Nous intervenons toujours de manière itérative afin de pouvoir mesurer régulièrement notre impact sur la performance de l’équipe à travers la qualité des développements produits et sa capacité à livrer.
 
-Il développe avec elles les fonctionnalités du backlog directement sur leur base de code
+Notre approche de coaching s'adapte en continu de façon pragmatique en fonction des besoins et du contexte de chaque équipe à la fois en termes de temporalité et de posture du coach.
 
-Il améliore et met en œuvre des processus et des pratiques CI / CD
+Parfois, ce n’est pas le bon moment pour coacher une équipe pour différentes raisons :
+
+- Réticence et crainte du coaching, difficulté à poser une relation de confiance saine
+
+- Faible intérêt de l’équipe sur les nouvelles pratiques proposées
+
+- Pic d’activité avec des échéances courtes
+
+- Valeur du coaching non perçue par le management de l’équipe
+
+La posture du coach varie selon les besoins :
+
+- Tech lead / Role model afin de montrer l’exemple et pour adresser les sujets techniques que l’équipe n’arrive pas à résoudre seule
+
+- Mentor auprès des profils plus junior qui ont besoin de monter en compétence et de gagner en maîtrise et autonomie
+
+- Coach pour introduire de nouvelles pratiques au sein de l’équipe et accompagner sa progression
+
+Pour répondre à ces enjeux, nous fonctionnons de manière itérative avec des cycles In & Out ce qui permet de créer une dynamique d’amélioration continue au sein de l’équipe :
+
+- En fixant une ambition au début du cycle “in” et des objectifs à atteindre en fin de cycle
+  
+- En mesurant les résultats à chaque fin de cycle
+
+- En ajustant l’accompagnement (postures du coach, chantiers menés, temps de présence, etc.)
+
+Notre accompagnement est également basé sur cette approche itérative ce qui permet de réajuster notre périmètre d’action, le nombre d’équipes coachées, et d’adresser des sujets plus transverses.
+
+**Comment le coach technique intervient-il au sein des équipes ?**
+
+Il intervient en immersion au sein des équipes afin d’être au plus proche de leur quotidien et il va s’appuyer sur leur backlog pour proposer de nouvelles pratiques qui seront adaptées aux problématiques qu’elles rencontrent.
+
+Pour chaque nouvelle pratique introduite, le coach technique va commencer par la faire découvrir dans un environnement contrôlé (learning hours, kata, live coding). Puis, pour que l’équipe monte en compétence sur cette pratique, il va l'introduire progressivement dans son quotidien sur ses tâches de développement en cours. Pour que la pratique soit pleinement intégrée, cela demande du temps et de la répétition.
+
+Le coach technique va alterner deux approches complémentaires :
+
+- Coaching de groupe (en mob programming), le coach travaille sur une fonctionnalité du backlog, pour partager la réflexion en termes de design et d'architecture, leur stratégie de tests et de delivery, etc..
+
+- Coaching individuel (en pair programming), le coach met le focus sur un problème à résoudre ou une pratique à approfondir.
 
 **Combien d’équipes un coach technique peut-il accompagner ?**
 
-Au maximum entre 1 à 3 équipes en parallèle sur une même période de temps, selon le contexte et la taille des équipes.
+En fonction de leur taille, de leur disponibilité et de leur motivation, le nombre d’équipes que le coach technique est amené à accompagner varie selon le contexte et l'environnement de sa mission.
 
-Au début de la phase d’immersion, il est préférable de commencer avec une seule équipe puis d’augmenter ensuite progressivement le nombre d'équipes sur les cycles suivants.
+Au démarrage de l’accompagnement, il est préférable de commencer avec une seule équipe puis d’augmenter ensuite progressivement ce nombre sur les cycles suivants. Les cycles In & Out permettent au coach d’accompagner les équipes en parallèle et lui confère une plus grande souplesse dans son intervention.
 
-Il est recommandé de ne pas dépasser 4 équipes accompagnées en parallèle afin de conserver de la flexibilité en cas d’aléas (gestion des imprévus, focus sur une équipe en particulier si besoin, etc.).
+Nous recommandons de ne pas dépasser 3 équipes accompagnées en parallèle afin de conserver de la flexibilité en cas d’aléas (gestion des urgences, focus sur une équipe en particulier si besoin, etc) mais aussi pour laisser au coach de contribuer à des chantiers transverses (créer une offre de service de coaching, déployer les indicateurs de mesures de la performance, sensibiliser les métiers et le top management, etc.)
+
+Il est important de garder en tête que bien que le mandat du coach technique soit clair en début de mission, il va être amené à évoluer au cours de son accompagnement afin de pouvoir s'adapter aux besoins changeants du client et toujours dans une recherche d’impact systémique.
 
 **Comment savoir si mes équipes ont besoin de coaching technique ?**
 
-1. Vous constatez une perte de contrôle sur votre delivery (de plus en plus de bugs et de support qui complexifient les livraisons en Production).
+Afin de vous aider à déterminer si vos équipes ont besoin d’être accompagnées par un coach technique, nous vous invitons à observer les difficultés qu’elles rencontrent et les douleurs qu’elles ressentent.
 
-2. Vous avez du mal à livrer plus souvent et avec une meilleure qualité.
+Si, vous constatez que vos équipes :
 
-3. Vos équipes éprouvent des difficultés à être responsables sur l’ensemble de la chaîne de delivery (Dev to Prod) dans cette nouvelle organisation.
+- Ont de plus en plus de difficultés à livrer de manière fréquente et que chaque livraison est de plus en plus douloureuse
 
-C’est à ce moment-là qu’il faut intervenir pour leur redonner confiance et contrôle, recréer de l’engagement, de la passion et retenir les talents.
+- Produisent du code dont la qualité se détériore avec le temps et que leur dette technique ne cesse de croître.
 
-**Je ne sais pas quelle équipe accompagner ?**
+- Que malgré une nouvelle organisation du travail, elle continuent de ressentir l’impression de travailler en silos et qu’elles ne parviennent pas à s’approprier les nouveaux rôles et responsabilités qui leur ont été assignés
 
-Le choix de la première équipe à accompagner est important.
+- Qu’elles gagnent de nouvelles responsabilités sur la chaîne de valeur des produits qu’elles développent mais ne parviennent pas à monter suffisamment en compétences pour y répondre.
 
-2 pré-requis sont ainsi recommandés pour choisir son équipe :
+C’est à ce moment-là qu’il faut intervenir et faire appel à un coach technique pour vous aider à leur redonner confiance, à reprendre le contrôle de leur code et de leur delivery, créer de l’engagement, de la passion et retenir les talents.
+
+**Comment déterminer les équipes à accompagner ?**
+
+Pour bien choisir les équipes à accompagner, il est essentiel de tenir compte de plusieurs prérequis :
 
 - Privilégier les équipes les plus motivées car une équipe qui a envie de s‘améliorer va s’en donner les moyens.
 
-- Vérifier le soutien du management envers son équipe pour qu’elle puisse avoir le temps nécessaire pour s’améliorer sur ses pratiques (réduire le nombre de contraintes de livraison pour l’équipe concernée).
+- Vérifier le soutien du PO et du manager envers leur équipe pour qu’elle puisse avoir le temps nécessaire pour s’améliorer sur ses pratiques (réduire le nombre de contraintes de livraison pour l’équipe concernée).
+
+Il est également important de bien choisir la première équipe qui sera accompagnée car c’est elle qui sera montrée en exemple et qui sera montrée en exemple par le management et observée par les autres équipes.
 
 **Mes équipes ne sont pas motivées, que faire ?**
 
-Il est important de faire de la sensibilisation auprès des équipes démotivées afin de susciter progressivement leur intérêt :
+Vous venez de faire appel à un coach technique après avoir réussi à convaincre le top management d’investir dans cet accompagnement et pourtant vos équipes ne sont pas motivées par le coaching technique.
+C’est tout à fait normal !
 
-- Favoriser le partage de la 1ère équipe accompagnée sur ses apprentissages et difficultés au sein des communautés de pratiques
+Bien que vous fassiez les mêmes constats sur les difficultés et les douleurs que rencontrent vos équipes, il peut être très difficile pour une équipe d’accepter d’être aidée car cela peut être vécu comme un aveu d’échec.
 
-- Inviter les équipes à des learning hours ou à des sessions de Mob programming
+Le coach peut aussi parfois être vu comme un émissaire qui vient surveiller ce que font les équipes pour ensuite aller le rapporter au management. Une équipe n’a pas forcément envie de dévoiler ses faiblesses et va naturellement se protéger en fermant la porte au coaching technique.
 
-Cela sera un véritable déclencheur grâce au rayonnement sur les autres équipes et l’organisation ce qui facilitera le mandat auprès du management et l’accompagnement de nouvelles équipes.
+Il est donc essentiel de faire de la sensibilisation auprès des équipes afin de susciter progressivement leur intérêt :
+
+- En favorisant le partage des premières équipes accompagnées sur leurs apprentissages mais aussi les difficultés qu’elles ont rencontrées au reste de l’organisation à travers les communautés de pratiques
+
+- En ouvrant aux autres équipes les sessions de travail réalisé avec les équipes accompagnées afin de rassurer sur la démarche et de montrer la valeur apportée aux équipes
+
+Cela sera un véritable déclencheur grâce au rayonnement sur les autres équipes et l’organisation ce qui facilitera le mandat du coach auprès du management et permettra d’accompagner les prochaines équipes en toute confiance.
 
 **Quels sont les facteurs clés de succès du coaching technique ?**
 
-1. Les relais de confiance au sein de l’équipe.
+Pour que le coaching technique apporte toute la valeur espéré, nous avons identifié 3 facteurs clés de succès que nous respectons et appliquons dans le cadre de nos missions.
 
-2. Le partage de ce qui aura été appris pour démontrer la valeur des nouvelles pratiques .
+1. Diagnostiquer le niveau de maturité des équipes et identifier les relais de confiance au sein des équipes accompagnées afin que le coach technique ait toutes les cartes en main pour mener à bien son accompagnement et qu’il soit en capacité de convaincre l’équipe d’investir du temps et de l’énergie dans les nouveaux apprentissages.
 
-3. La mesure factuelle :
+2. Mesurer factuellement les résultats du coaching technique :
 
-    - De la durabilité du coaching (apprentissage et maîtrise des pratiques par les équipes, autonomie, etc.).
+   - ses outputs : moyens mis en place à travers les nouvelles pratiques de coaching (apprentissage et maîtrise des pratiques par les équipes, autonomie, etc.)
 
-    - Des impacts sur la capacité de delivery de l’équipe et sur sa performance.
+   - ses outcomes : les résultats sur la performance (impacts sur la capacité de delivery de l’équipe et sur sa performance)
 
-**Que faire si je n’ai pas atteint mes objectifs pendant l’accompagnement ?**
+3. Partager ce qui aura été appris pour démontrer la valeur des nouvelles pratiques afin d’aller rechercher un impact systémique au sein de l’organisation dans en cherchant à mettre en place une véritable culture générative propice à l’amélioration.
 
-Il est prévu que le dispositif de coaching soit revu régulièrement entre le coach et le management (trimestriellement par exemple) afin de s’assurer que nous sommes toujours alignés sur les ambitions et objectifs.
+**Les objectifs changent ou les besoins des équipes grandissent, comment le coaching technique s’adapte ?**
+
+Le coaching technique est agile par nature et fonctionne de manière itérative.
+
+Le dispositif est revu régulièrement entre le coach et le management (trimestriellement par exemple) afin de s’assurer que nous sommes toujours alignés sur les ambitions, les périmètres et objectifs.
 
 Cela permet ainsi de revoir à la hausse ou à la baisse le nombre de coachs intervenant sur le périmètre en fonction des nouveaux besoins qui se seraient exprimés durant les premiers cycles d’accompagnement.
 
-**Quels sont les engagements du management envers ses équipes coachées ?**
+**Quel est le rôle du management envers les équipes coachées ?**
 
-Vous vous engagez à :
+Le rôle que joue le management est essentiel dans la réussite d’un accompagnement de coaching technique car c’est lui qui va :
 
-1. Porter l’ambition auprès de votre organisation pour faciliter l’intervention du coach au sein des équipes.
+- Porter l’ambition auprès de l’organisation pour faciliter l’intervention du coach au sein des équipes.
 
-2. Consacrer du temps et beaucoup de pratique à l’apprentissage pour avoir un impact durable.
+- Permettre aux équipes de consacrer du temps à l’apprentissage de nouvelles pratiques pour avoir un impact durable.
 
-3. Soutenir vos équipes dans leur apprentissage : il n’est pas linéaire mais signifie que l’équipe progresse.
+- Soutenir les équipes dans leur apprentissage : parfois, les équipes peuvent se décourager pendant le processus d’apprentissage, il est nécessaire que le management viennent en support pour soutenir leurs efforts dans la durée.
 
-**Quelle est la latitude décisionnelle du coach technique ?**
+**Est-ce normal d’observer une baisse de la performance des équipes pendant le coaching technique ?**
 
-Lors de l'expérimentation des pratiques et des approches sur le terrain, le coach technique peut être amené à réorganiser les équipes mais aussi les processus et les interactions en fonction de l'observation. Cela se fait en étroite collaboration avec le management.
+L’apprentissage de nouvelles pratiques est loin d’être linéaire.
 
-Il accompagne toujours les personnes dans le processus de changement et optimise l’usage par les équipes des leviers de support et de service internes à l’organisation.
+L’euphorie du démarrage peut s’essouffler si elle n’est pas soutenue par des efforts d’entrainements. Cet essoufflement est communément appelé “le creux de l’apprentissage” Il se manifeste par une baisse de la performance générale du niveau de l’équipe.
 
-**J’observe un ralentissement dans la performance de mes équipes, est-ce normal ?**
+L’erreur commune est de conclure que la méthode d’apprentissage ne fonctionne pas et qu’il faut revenir à l’avant. C’est exactement à ce moment-là qu'il ne faut rien abandonner ! Le creux signifie justement que les méthodes sont en cours d’acquisition et qu’il y a des réglages à faire.
 
-Un apprentissage de nouvelles pratiques est loin d'être linéaire.
-L'euphorie du démarrage peut s'essouffler si elle n'est pas soutenue par des efforts d'entrainements.
-
-Cet essoufflement est communément appelé "le creux de l'apprentissage"
-Il se manifeste par une baisse de la performance générale du niveau de l'équipe.
-
-L'erreur commune est de conclure que la méthode d'apprentissage ne fonctionne pas et qu'il faut revenir à l'avant.
-C'est exactement à ce moment là qu'il ne faut rien abandonner !
-
-Le creux signifie justement que les méthodes sont en cours d'acquisition et  qu'il y a des réglages à faire.
-
-Le soutien du management auprès de ses équipes est déterminant pour les encourager à persévérer dans leur montée en compétences.
-
-La persévérance amènera ainsi les équipes à dépasser significativement leur niveau d'avant !
+Le soutien du coach technique mais aussi du management auprès de ses équipes est déterminant pour les encourager à persévérer dans leur montée en compétences. C’est la persévérance qui amènera les équipes à dépasser significativement leur niveau d’avant !
