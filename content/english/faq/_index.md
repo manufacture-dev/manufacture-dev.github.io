@@ -164,9 +164,9 @@ For technical coaching to bring all the expected value, we have identified 3 key
 
 2. Factually measure the results of technical coaching:
 
-  - its outputs: means put in place through new coaching practices (learning and mastery of practices by teams, autonomy, etc.)
+   - its outputs: means put in place through new coaching practices (learning and mastery of practices by teams, autonomy, etc.)
 
-  - its outcomes: the results on performance (impacts on the team's delivery capacity and on its performance)
+   - its outcomes: the results on performance (impacts on the team's delivery capacity and on its performance)
 
 3. Share what has been learned to demonstrate the value of new practices in order to seek a systemic impact within the organization by seeking to establish a true generative culture conducive to improvement.
 
