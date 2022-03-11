@@ -41,7 +41,7 @@ we_are_hiring:
   proposal: "**Let's talk about your vision of technical coaching!**"
 
   button:
-    enable: true
+    enable: false
     label: "See the job description"
     link: "#"
 

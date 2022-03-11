@@ -41,7 +41,7 @@ we_are_hiring:
   proposal: "**Parlons de votre vision du coaching technique !**"
 
   button:
-    enable: true
+    enable: false
     label: "Voir la fiche de poste"
     link: "#"
 
