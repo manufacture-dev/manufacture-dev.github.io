@@ -29,7 +29,7 @@ Les organisations efficientes partagent plusieurs caractéristiques :
 
 **En quoi consiste le coaching technique ?**
 
-Le coaching technique vise à améliorer la performance de l'organisation en mettant le focus sur la culture et les pratiques des équipes en les accompagnant dans leur montée en compétences pour une meilleure maîtrise de leur code et de leur pipeline.
+Le coaching technique vise à améliorer la performance de l'organisation en mettant l'accent sur la culture et les pratiques des équipes en les accompagnant dans leur montée en compétences pour une meilleure maîtrise de leur code et de leur pipeline.
 
 Le périmètre d'intervention du coach est large : participation à la réorganisation des équipes, des processus et des interactions en fonction des observations du coach (en étroite collaboration avec le management). Il accompagne les individus et l'organisation dans le processus de changement et optimise l'usage par les équipes des leviers de support et de service internes à l'organisation.
 
@@ -41,7 +41,7 @@ Un coach technique possède à la fois une forte culture agile et une solide exp
 
 Son rôle est d'intervenir auprès des équipes pour transmettre les bonnes pratiques, le bon usage des outils et la bonne culture afin d'orienter l'organisation vers une efficience durable :
 
-- Faire monter en compétence les équipes sur leurs pratiques de développement (tests, clean code, refactoring, TDD, Clean Architecture, etc.) et les faire gagner en autonomie
+- Faire monter en compétence les équipes sur leurs pratiques de développement (tests, clean code, refactoring, TDD, clean architecture, etc.) et les faire gagner en autonomie
 
 - Améliorer l'organisation du travail de l'équipe en favorisant la collaboration entre les différents acteurs (métiers et technique) à travers la mise en oeuvre des pratiques BDD et DDD
 
@@ -75,7 +75,7 @@ Parfois, ce n'est pas le bon moment pour coacher une équipe pour différentes r
 
 La posture du coach varie selon les besoins :
 
-- Tech lead / Role model afin de montrer l'exemple et pour adresser les sujets techniques que l'équipe n'arrive pas à résoudre seule
+- Tech lead / Role model afin de montrer l'exemple et pour traiter les sujets techniques que l'équipe n'arrive pas à résoudre seule
 
 - Mentor auprès des profils plus junior qui ont besoin de monter en compétence et de gagner en maîtrise et autonomie
 
@@ -89,7 +89,7 @@ Pour répondre à ces enjeux, nous fonctionnons de manière itérative avec des 
 
 - En ajustant l'accompagnement (postures du coach, chantiers menés, temps de présence, etc.)
 
-Notre accompagnement est également basé sur cette approche itérative ce qui permet de réajuster notre périmètre d'action, le nombre d'équipes coachées, et d'adresser des sujets plus transverses.
+Notre accompagnement est également basé sur cette approche itérative ce qui permet de réajuster notre périmètre d'action, le nombre d'équipes coachées, et de traiter des sujets plus transverses.
 
 **Comment le coach technique intervient-il au sein des équipes ?**
 
@@ -99,9 +99,9 @@ Pour chaque nouvelle pratique introduite, le coach technique va commencer par la
 
 Le coach technique va alterner deux approches complémentaires :
 
-- Coaching de groupe (en mob programming), le coach travaille sur une fonctionnalité du backlog, pour partager la réflexion en termes de design et d'architecture, leur stratégie de tests et de delivery, etc..
+- Coaching de groupe (en mob programming), le coach travaille sur une fonctionnalité du backlog, pour partager la réflexion en termes de design et d'architecture, leur stratégie de tests et de delivery, etc.
 
-- Coaching individuel (en pair programming), le coach met le focus sur un problème à résoudre ou une pratique à approfondir.
+- Coaching individuel (en pair programming), le coach met l'accent sur un problème à résoudre ou une pratique à approfondir.
 
 **Combien d'équipes un coach technique peut-il accompagner ?**
 
@@ -123,7 +123,7 @@ Si, vous constatez que vos équipes :
 
 - Produisent du code dont la qualité se détériore avec le temps et que leur dette technique ne cesse de croître.
 
-- Que malgré une nouvelle organisation du travail, elle continuent de ressentir l'impression de travailler en silos et qu'elles ne parviennent pas à s'approprier les nouveaux rôles et responsabilités qui leur ont été assignés
+- Que malgré une nouvelle organisation du travail, elles continuent de ressentir l'impression de travailler en silos et qu'elles ne parviennent pas à s'approprier les nouveaux rôles et responsabilités qui leur ont été assignés
 
 - Qu'elles gagnent de nouvelles responsabilités sur la chaîne de valeur des produits qu'elles développent mais ne parviennent pas à monter suffisamment en compétences pour y répondre.
 
@@ -133,7 +133,7 @@ C'est à ce moment-là qu'il faut intervenir et faire appel à un coach techniqu
 
 Pour bien choisir les équipes à accompagner, il est essentiel de tenir compte de plusieurs prérequis :
 
-- Privilégier les équipes les plus motivées (celles qui manifestent de l'intérêt pour le coaching technique) car une équipe qui a envie de s‘améliorer va s'en donner les moyens.
+- Privilégier les équipes les plus motivées (celles qui manifestent de l'intérêt pour le coaching technique) car une équipe qui a envie de s'améliorer va s'en donner les moyens.
 
 - Vérifier le soutien du PO et du manager envers leur équipe pour qu'elle puisse avoir le temps nécessaire pour s'améliorer sur ses pratiques (réduire le nombre de contraintes de livraison pour l'équipe concernée).
 
@@ -159,7 +159,7 @@ Cela sera un véritable déclencheur grâce au rayonnement sur les autres équip
 
 **Quels sont les facteurs clés de succès du coaching technique ?**
 
-Pour que le coaching technique apporte toute la valeur espéré, nous avons identifié 3 facteurs clés de succès que nous respectons et appliquons dans le cadre de nos missions.
+Pour que le coaching technique apporte toute la valeur espérée, nous avons identifié 3 facteurs clés de succès que nous respectons et appliquons dans le cadre de nos missions.
 
 1. Diagnostiquer le niveau de maturité des équipes et identifier les relais de confiance au sein des équipes accompagnées afin que le coach technique ait toutes les cartes en main pour mener à bien son accompagnement et qu'il soit en capacité de convaincre l'équipe d'investir du temps et de l'énergie dans les nouveaux apprentissages.
 

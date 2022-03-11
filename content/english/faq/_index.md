@@ -41,7 +41,7 @@ A technical coach has both a strong agile culture and solid technical expertise.
 
 Its role is to intervene with the teams to transmit good practices, the correct use of tools and the right culture in order to guide the organization towards sustainable efficiency:
 
-- Increase the skills of the teams on their development practices (tests, clean code, refactoring, TDD, Clean Architecture, etc.) and make them gain autonomy
+- Increase the skills of the teams on their development practices (tests, clean code, refactoring, TDD, clean architecture, etc.) and make them gain autonomy
 
 - Improve the organization of the team's work by promoting collaboration between the different actors (business and technical) through the implementation of BDD and DDD practices
 
