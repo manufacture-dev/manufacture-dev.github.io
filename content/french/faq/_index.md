@@ -81,10 +81,10 @@ La posture du coach varie selon les besoins :
 
 - Coach pour introduire de nouvelles pratiques au sein de l’équipe et accompagner sa progression
 
-Pour répondre à ces enjeux, nous fonctionnons de manière itérative avec des cycles In & Out ce qui permet de créer une dynamique d’amélioration continue au sein de l’équipe :
+Pour répondre à ces enjeux, nous fonctionnons de manière itérative avec des cycles In & Out (In : le coach est en immersion dans l’équipe / Out : le coach se met en retrait et reste en support de l’équipe), ce qui permet de créer une dynamique d’amélioration continue au sein de l’équipe :
 
 - En fixant une ambition au début du cycle “in” et des objectifs à atteindre en fin de cycle
-  
+
 - En mesurant les résultats à chaque fin de cycle
 
 - En ajustant l’accompagnement (postures du coach, chantiers menés, temps de présence, etc.)
@@ -105,13 +105,13 @@ Le coach technique va alterner deux approches complémentaires :
 
 **Combien d’équipes un coach technique peut-il accompagner ?**
 
-En fonction de leur taille, de leur disponibilité et de leur motivation, le nombre d’équipes que le coach technique est amené à accompagner varie selon le contexte et l'environnement de sa mission.
+En fonction de leur taille, de leur disponibilité et de leur motivation, le nombre d’équipes qu’un coach technique est amené à accompagner varie selon le contexte et l'environnement de sa mission.
 
-Au démarrage de l’accompagnement, il est préférable de commencer avec une seule équipe puis d’augmenter ensuite progressivement ce nombre sur les cycles suivants. Les cycles In & Out permettent au coach d’accompagner les équipes en parallèle et lui confère une plus grande souplesse dans son intervention.
+Au démarrage de l’accompagnement, il est préférable de commencer avec une seule équipe puis d’augmenter ensuite progressivement ce nombre sur les cycles suivants. Les cycles In & Out (In : le coach est en immersion dans l’équipe / Out : le coach se met en retrait et reste en support de l’équipe) permettent au coach d’accompagner les équipes en parallèle et lui confère une plus grande souplesse dans son intervention.
 
 Nous recommandons de ne pas dépasser 3 équipes accompagnées en parallèle afin de conserver de la flexibilité en cas d’aléas (gestion des urgences, focus sur une équipe en particulier si besoin, etc) mais aussi pour laisser au coach de contribuer à des chantiers transverses (créer une offre de service de coaching, déployer les indicateurs de mesures de la performance, sensibiliser les métiers et le top management, etc.)
 
-Il est important de garder en tête que bien que le mandat du coach technique soit clair en début de mission, il va être amené à évoluer au cours de son accompagnement afin de pouvoir s'adapter aux besoins changeants du client et toujours dans une recherche d’impact systémique.
+Il est important de noter que le mandat du coach technique est amené à évoluer au cours de son accompagnement afin de pouvoir s'adapter aux besoins changeants du client tout en conservant la démarche de recherche d’impacts systémiques.
 
 **Comment savoir si mes équipes ont besoin de coaching technique ?**
 
@@ -133,7 +133,7 @@ C’est à ce moment-là qu’il faut intervenir et faire appel à un coach tech
 
 Pour bien choisir les équipes à accompagner, il est essentiel de tenir compte de plusieurs prérequis :
 
-- Privilégier les équipes les plus motivées car une équipe qui a envie de s‘améliorer va s’en donner les moyens.
+- Privilégier les équipes les plus motivées (celles qui manifestent de l’intérêt pour le coaching technique) car une équipe qui a envie de s‘améliorer va s’en donner les moyens.
 
 - Vérifier le soutien du PO et du manager envers leur équipe pour qu’elle puisse avoir le temps nécessaire pour s’améliorer sur ses pratiques (réduire le nombre de contraintes de livraison pour l’équipe concernée).
 
@@ -141,12 +141,13 @@ Il est également important de bien choisir la première équipe qui sera accomp
 
 **Mes équipes ne sont pas motivées, que faire ?**
 
-Vous venez de faire appel à un coach technique après avoir réussi à convaincre le top management d’investir dans cet accompagnement et pourtant vos équipes ne sont pas motivées par le coaching technique.
+Vous êtes convaincu de l’intérêt du coaching technique et vous venez d'accueillir un coach technique au sein de votre organisation et pourtant vos équipes ne sont pas motivées pour être accompagnées.
+
 C’est tout à fait normal !
 
 Bien que vous fassiez les mêmes constats sur les difficultés et les douleurs que rencontrent vos équipes, il peut être très difficile pour une équipe d’accepter d’être aidée car cela peut être vécu comme un aveu d’échec.
 
-Le coach peut aussi parfois être vu comme un émissaire qui vient surveiller ce que font les équipes pour ensuite aller le rapporter au management. Une équipe n’a pas forcément envie de dévoiler ses faiblesses et va naturellement se protéger en fermant la porte au coaching technique.
+Le coach peut aussi parfois être perçu comme envoyé par le management pour surveiller ce que font les équipes. Une équipe n’a pas forcément envie de dévoiler ses faiblesses et va naturellement se protéger en fermant la porte au coaching technique.
 
 Il est donc essentiel de faire de la sensibilisation auprès des équipes afin de susciter progressivement leur intérêt :
 

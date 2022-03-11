@@ -81,7 +81,7 @@ The posture of the coach varies according to the needs:
 
 - Coach to introduce new practices within the team and support its progress
 
-To meet these challenges, we operate iteratively with In & Out cycles, which creates a dynamic of continuous improvement within the team:
+To meet these challenges, we operate iteratively with In & Out cycles (In: the coach is in immersion in the team / Out: the coach steps back and remains in support of the team), which creates a dynamic of continuous improvement within the team:
 
 - By setting an ambition at the start of the “in” cycle and objectives to be achieved at the end of the cycle
 
@@ -105,13 +105,13 @@ The technical coach will alternate two complementary approaches:
 
 **How many teams can a technical coach support?**
 
-Depending on their size, their availability and their motivation, the number of teams that the technical coach is required to support varies according to the context and the environment of his mission.
+Depending on their size, their availability and their motivation, the number of teams that a technical coach is required to support varies according to the context and the environment of his mission.
 
-At the start of the support, it is preferable to start with a single team and then gradually increase this number over the following cycles. The In & Out cycles allow the coach to support the teams in parallel and gives him greater flexibility in his intervention.
+At the start of the support, it is preferable to start with a single team and then gradually increase this number over the following cycles. The In & Out cycles (In: the coach is in immersion in the team / Out: the coach steps back and remains in support of the team) allow the coach to support the teams in parallel and gives him a greater flexibility in its intervention.
 
 We recommend not to exceed 3 teams accompanied in parallel in order to maintain flexibility in the event of hazards (emergency management, focus on a particular team if necessary, etc.) but also to allow the coach to contribute to cross-functional projects (create a coaching service offer, deploy performance measurement indicators, raise awareness among businesses and top management, etc.)
 
-It is important to keep in mind that although the mandate of the technical coach is clear at the start of the mission, he will have to evolve during his support in order to be able to adapt to the changing needs of the client and always in a search for systemic impact.
+It is important to note that the mandate of the technical coach is likely to evolve during his support in order to be able to adapt to the changing needs of the client while maintaining the approach of seeking systemic impacts.
 
 **How do I know if my teams need technical coaching?**
 
@@ -133,7 +133,7 @@ This is when you have to step in and call on a technical coach to help you resto
 
 To choose the right teams to support, it is essential to take into account several prerequisites:
 
-- Favor the most motivated teams because a team that wants to improve will give itself the means to do so.
+- Favor the most motivated teams (those who show interest in technical coaching) because a team that wants to improve will give itself the means to do so.
 
 - Check the support of the PO and the manager for their team so that they can have the necessary time to improve their practices (reduce the number of delivery constraints for the team concerned).
 
@@ -141,12 +141,13 @@ It is also important to choose the first team that will be accompanied because i
 
 **My teams are not motivated, what should I do?**
 
-You have just called on a technical coach after having succeeded in convincing top management to invest in this support and yet your teams are not motivated by technical coaching.
-This is perfectly normal !
+You are convinced of the value of technical coaching and you have just welcomed a technical coach within your organization and yet your teams are not motivated to be accompanied.
+
+This is completely normal !
 
 Although you make the same observations on the difficulties and the pains that your teams encounter, it can be very difficult for a team to accept being helped because it can be experienced as an admission of failure.
 
-The coach can also sometimes be seen as an emissary who comes to monitor what the teams are doing and then reports it to management. A team does not necessarily want to reveal its weaknesses and will naturally protect itself by closing the door to technical coaching.
+The coach can also sometimes be perceived as sent by the management to monitor what the teams are doing. A team does not necessarily want to reveal its weaknesses and will naturally protect itself by closing the door to technical coaching.
 
 It is therefore essential to raise awareness among the teams in order to gradually arouse their interest:
 
