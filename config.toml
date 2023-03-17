@@ -88,7 +88,7 @@ author = "Manufacture"
 currency = "$"
 # Contact form works with https://www.staticforms.xyz/
 staticforms_form_action = "https://api.staticforms.xyz/submit"
-staticforms_access_key = "475560da-0cd5-4511-9cdb-8925c30d05b6"
+staticforms_access_key = "dffd3f60-03bb-41cd-ad3f-e497688bf517"
 
 # Preloader
 [params.preloader]
