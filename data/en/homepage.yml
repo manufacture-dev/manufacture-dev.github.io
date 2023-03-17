@@ -130,3 +130,5 @@ testimonial:
       image: "images/logo-societe-generale.png"
     - name: "Enedis"
       image: "images/logo-enedis.png"
+    - name: "Sacem"
+      image: "images/logo-sacem.png"
