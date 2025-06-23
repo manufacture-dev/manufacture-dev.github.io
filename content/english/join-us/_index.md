@@ -72,4 +72,8 @@ form:
   sent_messages:
     - item: "Thank you for your message!"
     - item: "We will get back to you very soon."
+
+  error_messages:
+    - item: "reCAPTCHA verification failed."
+    - item: "Please complete the captcha."
 ---

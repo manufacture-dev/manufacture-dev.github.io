@@ -14,11 +14,14 @@ form:
   reason: "Reason for contacting us"
   source: "How did you find out about us?"
   redirect_to: "contact"
-  
+
   sent_messages:
     - item: "Thank you for your message!"
     - item: "We will get back to you within 48 hours to discuss your needs."
 
+  error_messages:
+    - item: "reCAPTCHA verification failed."
+    - item: "Please complete the captcha."
 
 ############################# office ############################
 office:

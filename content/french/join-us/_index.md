@@ -72,4 +72,8 @@ form:
   sent_messages:
     - item: "Merci pour votre message !"
     - item: "Nous vous contacterons très rapidement."
+
+  error_messages:
+    - item: "La vérification reCAPTCHA a échoué."
+    - item: "Merci de valider le captcha."
 ---

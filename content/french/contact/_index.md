@@ -19,6 +19,9 @@ form:
     - item: "Merci pour votre message !"
     - item: "Nous reviendrons vers vous sous 48h pour échanger sur votre besoin."
 
+  error_messages:
+    - item: "La vérification reCAPTCHA a échoué."
+    - item: "Merci de valider le captcha."
 
 ############################# office ############################
 office:
