@@ -6,13 +6,33 @@ $(window).on('load', function () {
 (function ($) {
   'use strict';
 
-  // Contact form
-  let searchParams = new URLSearchParams(window.location.search)
+  const $form = $('#static-form');
 
-  if (searchParams.has('sent')) {
-    $('#sent').show();
+  if ($form.length) {
+    $form.on('submit', function (e) {
+      e.preventDefault();
+
+      $('#sent').hide();
+      $('#error').hide();
+
+      const formData = new FormData(this);
+
+      $.ajax({
+        url: $form.attr('action'),
+        method: 'POST',
+        data: formData,
+        processData: false,
+        contentType: false
+      })
+          .done(function () {
+            $('#sent').show();
+          })
+          .fail(function () {
+            $('#error').show();
+          });
+    });
   }
-  
+
   // Product slider
   $('.product-image-slider').slick({
     autoplay: false,

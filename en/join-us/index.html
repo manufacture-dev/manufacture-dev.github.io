@@ -265,7 +265,7 @@
 </div>
 <div class="row justify-content-start">
 <div class=col-lg-6>
-<form action=https://api.staticforms.xyz/submit method=post class=row>
+<form id=static-form action=https://api.staticforms.xyz/submit method=post class=row>
 <div class="col-lg-12 mb-3">
 <input type=text class="form-control mb-2" id=lastname name=$lastName required placeholder="Last name">
 </div>
@@ -284,15 +284,21 @@
 <div class="col-12 mb-3">
 <textarea class="form-control mb-2" name=message id=$message required placeholder="Tell us about your desire to join Manufacture"></textarea>
 </div>
+<div class="col-12 mb-3">
+<div class=g-recaptcha data-sitekey=6Le2xWorAAAAAMPKSbx60HdG-z9nQmTfgsUSFLJF></div>
+</div>
 <div class="col-12 text-center pt-3 align-self-center">
 <input type=text name=honeypot style=display:none>
 <input type=hidden name=accessKey value=dffd3f60-03bb-41cd-ad3f-e497688bf517>
-<input type=hidden name=redirectTo value="https://manufacture.dev/en/join-us?sent=yes">
 <button type=submit value=send class="btn btn-main">Send Now</button>
 </div>
 <div id=sent class="col-12 pt-3 text-center" style=display:none>
 <p>Thank you for your message!</p>
 <p>We will get back to you very soon.</p>
+</div>
+<div id=error class="col-12 pt-3 text-center" style=display:none>
+<p>reCAPTCHA verification failed.</p>
+<p>Please complete the captcha.</p>
 </div>
 </form>
 </div>
@@ -342,11 +348,12 @@
 </div>
 <div class=row>
 <div class=col-md-12>
-<p class=copyright-text>&copy; 2023 Manufacture</p>
+<p class=copyright-text>&copy; 2025 Manufacture</p>
 </div>
 </div>
 </div>
 </footer>
+<script src=https://www.google.com/recaptcha/api.js></script>
 <script src=https://manufacture.dev/plugins/jquery/jquery.js></script>
 <script src=https://manufacture.dev/plugins/bootstrap/bootstrap.min.js></script>
 <script src=https://manufacture.dev/plugins/slick/slick.min.js></script>
