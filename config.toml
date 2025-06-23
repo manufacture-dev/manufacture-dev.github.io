@@ -22,6 +22,8 @@ link = "plugins/slick/slick.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
+link = "https://www.google.com/recaptcha/api.js"
+[[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
@@ -84,11 +86,16 @@ icon_width = "65px"
 # Meta data
 description = "Manufacture | Technical coaching for efficient organisations"
 author = "Manufacture"
-# currency
+
+# Currency
 currency = "$"
+
 # Contact form works with https://www.staticforms.xyz/
 staticforms_form_action = "https://api.staticforms.xyz/submit"
 staticforms_access_key = "dffd3f60-03bb-41cd-ad3f-e497688bf517"
+
+# reCAPTCHA
+reCAPTCHA_site_key = "6Le2xWorAAAAAMPKSbx60HdG-z9nQmTfgsUSFLJF"
 
 # Preloader
 [params.preloader]
