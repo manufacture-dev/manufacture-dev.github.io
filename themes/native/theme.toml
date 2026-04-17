@@ -1,0 +1,11 @@
+name = "Native"
+license = "MIT"
+description = "Native theme for Manufacture website"
+homepage = "https://manufacture.dev/"
+tags = []
+features = []
+min_version = "0.110.0"
+
+[author]
+  name = "Manufacture"
+  homepage = "https://manufacture.dev/"

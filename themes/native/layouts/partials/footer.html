@@ -1,0 +1,8 @@
+<footer>
+  <p>{{ with site.Params.author }}{{ . }}{{ end }} &copy; {{ now.Year }}</p>
+  <ul>
+    {{ range site.Menus.footer }}
+    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</footer>

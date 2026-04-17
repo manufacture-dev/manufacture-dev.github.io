@@ -1,0 +1,23 @@
+// Native theme — base styles
+// Design tokens are defined in themes/native/assets/scss/_tokens.scss (see we-e1x)
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
