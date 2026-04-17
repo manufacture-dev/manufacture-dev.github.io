@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Design Tokens — Native Theme
+   Visual foundations: palette, typography, spacing
+   ========================================================================== */
+
+:root {
+  /* --- Palette --- */
+  --color-primary:        #ff4e12;
+  --color-primary-hover:  #e03d00;
+  --color-secondary:      #2c3b3d;
+  --color-accent:         #bcd2cf;
+  --color-surface:        #f2efe9;
+  --color-surface-subtle: #f7f5f1;
+  --color-bg:             #faf9f6;
+  --color-text:           #2c3b3d;
+  --color-text-muted:     #6b7a7c;
+  --color-border:         #ddd8cf;
+  --color-white:          #ffffff;
+
+  /* --- Typography --- */
+  --font-sans:   'Roboto', system-ui, -apple-system, sans-serif;
+  --font-serif:  'Droid Serif', Georgia, serif;
+  --font-mono:   'JetBrains Mono', 'Courier New', monospace;
+
+  --font-size-xs:   0.75rem;   /*  12px */
+  --font-size-sm:   0.875rem;  /*  14px */
+  --font-size-base: 1rem;      /*  16px */
+  --font-size-lg:   1.125rem;  /*  18px */
+  --font-size-xl:   1.25rem;   /*  20px */
+  --font-size-2xl:  1.5rem;    /*  24px */
+  --font-size-3xl:  1.875rem;  /*  30px */
+  --font-size-4xl:  2.25rem;   /*  36px */
+
+  --font-weight-light:   300;
+  --font-weight-regular: 400;
+  --font-weight-bold:    700;
+  --font-weight-black:   800;
+
+  --line-height-tight:  1.25;
+  --line-height-normal: 1.6;
+  --line-height-loose:  1.8;
+
+  /* --- Spacing scale (base 4px) --- */
+  --space-1:   0.25rem;   /*  4px */
+  --space-2:   0.5rem;    /*  8px */
+  --space-3:   0.75rem;   /* 12px */
+  --space-4:   1rem;      /* 16px */
+  --space-5:   1.25rem;   /* 20px */
+  --space-6:   1.5rem;    /* 24px */
+  --space-8:   2rem;      /* 32px */
+  --space-10:  2.5rem;    /* 40px */
+  --space-12:  3rem;      /* 48px */
+  --space-16:  4rem;      /* 64px */
+  --space-20:  5rem;      /* 80px */
+  --space-24:  6rem;      /* 96px */
+
+  /* --- Layout --- */
+  --container-max:   1200px;
+  --container-pad:   var(--space-6);
+  --header-height:   4.5rem;
+
+  /* --- Borders & Radius --- */
+  --radius-sm:  0.25rem;
+  --radius-md:  0.5rem;
+  --radius-lg:  1rem;
+  --border-width: 1px;
+
+  /* --- Shadows --- */
+  --shadow-sm: 0 1px 3px rgba(44, 59, 61, 0.08);
+  --shadow-md: 0 4px 16px rgba(44, 59, 61, 0.12);
+  --shadow-lg: 0 8px 32px rgba(44, 59, 61, 0.16);
+
+  /* --- Transitions --- */
+  --transition-fast:   150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow:   400ms ease;
+
+  /* --- Z-index scale --- */
+  --z-base:    0;
+  --z-above:   10;
+  --z-nav:     100;
+  --z-overlay: 200;
+  --z-modal:   300;
+}

@@ -1,0 +1,53 @@
+{{- $data := index hugo.Data .Site.Language.Lang }}
+
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="site-footer__grid">
+      <div class="site-footer__contact">
+        {{- if and $data $data.footer.contact.enable }}
+          {{- with $data.footer.contact }}
+          <h3>{{ .question | markdownify }}</h3>
+          <p>{{ .answer | markdownify }}</p>
+          {{- if .button.enable }}
+            {{- with .button }}
+            <a href="{{ .link | absLangURL }}" class="btn btn-primary" style="margin-top: var(--space-6);">{{ .label }}</a>
+            {{- end }}
+          {{- end }}
+          {{- end }}
+        {{- end }}
+
+        <nav class="site-footer__nav" aria-label="{{ i18n "footer_navigation" | default "Footer navigation" }}">
+          {{- range site.Menus.footer }}
+          <a href="{{ .URL | absLangURL }}">{{ i18n .Name | default .Name }}</a>
+          {{- end }}
+        </nav>
+      </div>
+
+      <div class="site-footer__brand">
+        <a href="{{ site.BaseURL | relLangURL }}" aria-label="{{ site.Title }}">
+          {{- if site.Params.icon }}
+            <img src="{{ site.Params.icon | absURL }}" alt="{{ site.Title }}"{{ with site.Params.icon_width }} width="{{ . }}"{{ end }}>
+          {{- else if site.Params.logo }}
+            <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"{{ with site.Params.logo_width }} width="{{ . }}"{{ end }}>
+          {{- else }}
+            {{ site.Title }}
+          {{- end }}
+        </a>
+      </div>
+
+      <div class="site-footer__social">
+        {{- if and $data $data.footer.social.enable }}
+          {{- range $data.footer.social.networks }}
+          <a href="{{ .url | absLangURL }}" aria-label="{{ .icon }}" rel="noopener">
+            <i class="{{ .icon }}" aria-hidden="true"></i>
+          </a>
+          {{- end }}
+        {{- end }}
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>&copy; {{ now.Format "2006" }} {{ site.Params.copyright | markdownify }}</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,61 @@
+<header class="site-header" role="banner">
+  <div class="container">
+    <a class="site-logo" href="{{ site.BaseURL | relLangURL }}" aria-label="{{ site.Title }}">
+      {{- if site.Params.logo }}
+        <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"{{ with site.Params.logo_width }} width="{{ . }}"{{ end }}>
+      {{- else }}
+        <span>{{ site.Title }}</span>
+      {{- end }}
+    </a>
+
+    <button class="nav-toggle" id="nav-toggle" aria-controls="primary-nav" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" | default "Toggle navigation" }}">
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+    </button>
+
+    <nav class="primary-nav" id="primary-nav" aria-label="{{ i18n "primary_navigation" | default "Primary navigation" }}">
+      <ul class="primary-nav__list" role="list">
+        {{- $currentPage := . }}
+        {{- range site.Menus.main }}
+        <li>
+          <a class="primary-nav__link"
+             href="{{ if .Pre }}{{ site.BaseURL | relLangURL }}{{ .Pre }}{{ .URL }}{{ else }}{{ .URL | absLangURL }}{{ end }}"
+             {{- if ($currentPage.IsMenuCurrent "main" .) }} aria-current="page"{{ end }}>
+            {{ i18n .Name | default .Name }}
+          </a>
+        </li>
+        {{- end }}
+      </ul>
+
+      {{- if .IsTranslated }}
+      <select class="lang-select" aria-label="{{ i18n "select_language" | default "Select language" }}" onchange="location = this.value;">
+        {{- $pageLang := .Page.Lang }}
+        {{- range .Page.AllTranslations }}
+          {{- $t := . }}
+          {{- range site.Languages }}
+            {{- if eq $t.Lang .Lang }}
+              <option value="{{ $t.Permalink }}"{{ if eq $pageLang .Lang }} selected{{ end }}>
+                {{ .LanguageName }}
+              </option>
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      </select>
+      {{- end }}
+    </nav>
+  </div>
+</header>
+
+<script>
+  (function () {
+    var toggle = document.getElementById('nav-toggle');
+    var nav = document.getElementById('primary-nav');
+    if (!toggle || !nav) return;
+    toggle.addEventListener('click', function () {
+      var open = nav.dataset.open === 'true';
+      nav.dataset.open = open ? 'false' : 'true';
+      toggle.setAttribute('aria-expanded', open ? 'false' : 'true');
+    });
+  })();
+</script>
