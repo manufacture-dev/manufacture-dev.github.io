@@ -1,0 +1,152 @@
+/**
+ * Manufacture — Native Theme: Visual Tokens
+ *
+ * All design decisions expressed as CSS custom properties.
+ * Import this file first in any stylesheet that needs brand values.
+ *
+ * Conventions:
+ *   --color-*      Palette
+ *   --font-*       Typography families
+ *   --text-*       Type scale (size + line-height pairs)
+ *   --weight-*     Font weights
+ *   --space-*      Spacing scale (4-point grid)
+ *   --radius-*     Border radii
+ *   --transition-* Motion defaults
+ *   --z-*          Z-index layers
+ */
+
+:root {
+
+  /* ── Palette ──────────────────────────────────────────────── */
+
+  /* Brand */
+  --color-primary:       #ff4e12;   /* terracotta / accent */
+  --color-primary-dark:  #d93e0a;   /* hover / pressed state */
+
+  /* Neutrals */
+  --color-dark:          #2c3b3d;   /* body text, dark surfaces */
+  --color-dark-muted:    #3c4f51;   /* secondary text */
+  --color-mid:           #bcd2cf;   /* borders, dividers */
+  --color-light-1:       #f2efe9;   /* subtle background alt */
+  --color-light-2:       #f7f5f1;   /* page background */
+  --color-light-3:       #faf9f6;   /* header / card surface */
+  --color-white:         #ffffff;
+
+  /* Footer */
+  --color-footer-bg:     #2d3b3e;
+  --color-footer-text:   #ffffff;
+
+  /* State */
+  --color-error:         #c0392b;
+  --color-success:       #27ae60;
+  --color-focus-ring:    rgba(255, 78, 18, 0.35);
+
+
+  /* ── Typography ───────────────────────────────────────────── */
+
+  /* Families */
+  --font-sans:   'Roboto', system-ui, -apple-system, sans-serif;
+  --font-serif:  'Droid Serif', Georgia, serif;
+  --font-mono:   'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Google Fonts import URL — use in <link> or @import */
+  /* https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&family=Roboto:wght@300;700&display=swap */
+
+  /* Scale — fluid-ready, expressed in rem (base 16px) */
+  --text-xs:     0.75rem;   /* 12px — legal, captions */
+  --text-sm:     0.875rem;  /* 14px — meta, quotes */
+  --text-base:   1rem;      /* 16px — nav links */
+  --text-md:     1.0625rem; /* 17px — body paragraphs */
+  --text-lg:     1.4375rem; /* 23px — h3 */
+  --text-xl:     1.5625rem; /* 25px — p large */
+  --text-2xl:    1.875rem;  /* 30px — h2 */
+  --text-3xl:    2rem;      /* 32px — subheading */
+  --text-4xl:    2.5rem;    /* 40px — section headings */
+  --text-5xl:    2.75rem;   /* 44px — h1 */
+  --text-hero:   3.75rem;   /* 60px — hero title */
+
+  /* Line heights */
+  --leading-tight:   1.2;
+  --leading-snug:    1.4;
+  --leading-base:    1.5625;  /* 25px at 16px base */
+  --leading-relaxed: 2.1875;  /* 35px at 16px base */
+
+  /* Weights */
+  --weight-light:    300;
+  --weight-regular:  400;
+  --weight-medium:   500;
+  --weight-bold:     700;
+  --weight-black:    800;
+
+
+  /* ── Spacing (4-point grid) ───────────────────────────────── */
+
+  --space-1:    0.25rem;   /*  4px */
+  --space-2:    0.5rem;    /*  8px */
+  --space-3:    0.75rem;   /* 12px */
+  --space-4:    1rem;      /* 16px */
+  --space-5:    1.25rem;   /* 20px */
+  --space-6:    1.5rem;    /* 24px */
+  --space-8:    2rem;      /* 32px */
+  --space-10:   2.5rem;    /* 40px */
+  --space-12:   3rem;      /* 48px */
+  --space-16:   4rem;      /* 64px */
+  --space-24:   6rem;      /* 96px */
+  --space-section: 6.25rem; /* 100px — section vertical padding */
+
+
+  /* ── Border radius ────────────────────────────────────────── */
+
+  --radius-sm:   0.25rem;  /*  4px */
+  --radius-md:   0.5rem;   /*  8px */
+  --radius-lg:   1rem;     /* 16px */
+  --radius-xl:   1.875rem; /* 30px — pill buttons */
+  --radius-full: 9999px;
+
+  /* Hand-drawn border effect (signature Manufacture style) */
+  --radius-hand-tl: 255px 5px;
+  --radius-hand-tr: 5px 225px;
+  --radius-hand-br: 225px 5px;
+  --radius-hand-bl: 5px 255px;
+  --border-hand: solid 5px #1d1b1b;
+
+
+  /* ── Motion ───────────────────────────────────────────────── */
+
+  --transition-fast:   0.15s ease-in-out;
+  --transition-base:   0.2s ease-in-out;
+  --transition-slow:   0.3s ease-in-out;
+
+
+  /* ── Z-index layers ───────────────────────────────────────── */
+
+  --z-below:      -1;
+  --z-base:        0;
+  --z-raised:     10;
+  --z-overlay:   100;
+  --z-modal:    1000;
+  --z-preloader: 999999;
+
+
+  /* ── Layout ───────────────────────────────────────────────── */
+
+  --container-max:  1140px;
+  --container-pad:  var(--space-4);
+
+  /* Sticky header height — used by scroll-padding-top */
+  --header-height: 80px;
+}
+
+
+/* ── Responsive overrides ─────────────────────────────────────
+   Scale down select tokens on mobile (≤ 575px).
+   Mirror the @mixin mobile breakpoint from terracotta.
+   ──────────────────────────────────────────────────────────── */
+
+@media (max-width: 575px) {
+  :root {
+    --text-hero: 2.5rem;   /* 40px on mobile */
+    --text-4xl:  2.1875rem; /* 35px on mobile */
+    --space-section: 3.125rem; /* 50px on mobile */
+  }
+}
