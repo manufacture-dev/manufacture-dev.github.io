@@ -108,7 +108,9 @@
   --radius-hand-tr: 5px 225px;
   --radius-hand-br: 225px 5px;
   --radius-hand-bl: 5px 255px;
-  --border-hand: solid 5px #1d1b1b;
+  --border-hand-width: 5px;
+  --border-hand-style: solid;
+  --border-hand-color: #1d1b1b;
 
 
   /* ── Motion ───────────────────────────────────────────────── */
