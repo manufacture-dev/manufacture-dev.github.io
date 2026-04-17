@@ -4,3 +4,9 @@
 .hugo_build.lock
 /public/
 /resources/
+
+# Polecat runtime files
+CLAUDE.md
+.beads/
+.claude/
+.runtime/
