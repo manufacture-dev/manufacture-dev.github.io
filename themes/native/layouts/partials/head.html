@@ -3,6 +3,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   {{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-  {{ $css := resources.Get "scss/main.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  {{ $css := resources.Get "scss/main.scss" }}{{ if $css }}{{ $css = $css | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $css.Permalink }}">{{ end }}
 </head>
