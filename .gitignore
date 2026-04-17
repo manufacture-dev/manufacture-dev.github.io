@@ -4,3 +4,6 @@
 .hugo_build.lock
 /public/
 /resources/
+
+# Gas Town polecat runtime overlays
+CLAUDE.md
