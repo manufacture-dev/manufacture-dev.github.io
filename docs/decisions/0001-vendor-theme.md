@@ -8,10 +8,16 @@
 ## Contexte
 
 Le site actuel utilise le thème Hugo `terracotta` référencé comme submodule git via SSH
-(`git@github.com:…`). Cette configuration pose deux problèmes bloquants :
+(`git@github.com:manufacture-dev/terracotta.git`).
 
-1. **CI bloquée** : le clone SSH échoue dans les environnements CI/CD sans clé SSH
-   configurée (GitHub Actions, Netlify, etc.), rendant les builds automatiques fragiles.
+Cette configuration pose plusieurs problèmes :
+
+1. **Accessibilité depuis les sandboxes des agents** : lors des phases de travail automatisé
+   (agents IA, environnements de développement éphémères), le repo du thème
+   `manufacture-dev/terracotta` peut ne pas être accessible depuis la sandbox de l'agent.
+   Vendorer le thème directement dans le repo principal garantit que tous les outils et
+   agents peuvent travailler localement sans dépendance externe sur le repo du submodule.
+
 2. **Thème à réécrire** : le thème terracotta est conçu pour du e-commerce ; la refonte
    vise un site de services B2B, ce qui nécessite une réécriture quasi-complète du thème.
    Maintenir un lien vers l'upstream n'a donc pas de valeur.
@@ -25,7 +31,8 @@ Le site actuel utilise le thème Hugo `terracotta` référencé comme submodule 
 ## Conséquences
 
 **Positives :**
-- Build CI reproductible sans clé SSH ni submodule.
+- Travail local reproductible dans tous les environnements (agents, CI, développeurs)
+  sans dépendance sur l'accessibilité du repo du submodule.
 - Liberté totale de modifier le thème sans contrainte de compatibilité upstream.
 - Un seul dépôt à gérer, historique unifié.
 
