@@ -1,6 +1,28 @@
+# IDE
 .idea/
-.DS_Store
+.vscode/
+*.swp
+*.swo
 
+# OS
+.DS_Store
+Thumbs.db
+
+# Hugo
 .hugo_build.lock
 /public/
 /resources/
+
+# Secrets & credentials (ne jamais committer)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Polecat / agents runtime (overlay de travail, ne pas versionner)
+CLAUDE.md
+.beads
+.claude
+.runtime
