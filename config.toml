@@ -4,7 +4,7 @@ title = "Manufacture | Technical coaching for efficient organisations"
 theme = "terracotta"
 DefaultContentLanguage = "fr"
 # post excert
-summarylength = "20"
+summarylength = 20
 # disable language
 disableLanguages = [] # disable language from here
 

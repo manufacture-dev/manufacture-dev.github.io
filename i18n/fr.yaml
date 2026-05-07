@@ -1,53 +1,18 @@
-- id: "home"
-  translation: "Accueil"
-
-- id: "offer"
-  translation: "Offre"
-
-- id: "about"
-  translation: "À propos"
-
-- id: "faq"
-  translation: "FAQ"
-
-- id: "join-us"
-  translation: "Nous rejoindre"
-
-- id: "contact"
-  translation: "Contact"
-
-- id: "legal-notice"
-  translation: "Mentions légales"
-
-- id: "privacy-policy"
-  translation: "Politique de Confidentialité"
-  
-- id: "lastname"
-  translation: "Nom"
-
-- id: "firstname"
-  translation: "Prénom"
-
-- id: "business"
-  translation: "Entreprise"
-
-- id: "phone-number"
-  translation: "Numéro de téléphone"
-
-- id: "linkedin"
-  translation: "Lien profil LinkedIn"
-
-- id: "email"
-  translation: "Adresse e-mail"
-
-- id: "message"
-  translation: "Votre message"
-
-- id: "send"
-  translation: "Envoyer"
-  
-- id: "subscribe"
-  translation: "Souscrire"
-  
-- id: "read_more"
-  translation: "En Savoir Plus"
+home: "Accueil"
+offer: "Offre"
+about: "À propos"
+faq: "FAQ"
+join-us: "Nous rejoindre"
+contact: "Contact"
+legal-notice: "Mentions légales"
+privacy-policy: "Politique de Confidentialité"
+lastname: "Nom"
+firstname: "Prénom"
+business: "Entreprise"
+phone-number: "Numéro de téléphone"
+linkedin: "Lien profil LinkedIn"
+email: "Adresse e-mail"
+message: "Votre message"
+send: "Envoyer"
+subscribe: "Souscrire"
+read_more: "En Savoir Plus"
