@@ -1,53 +1,18 @@
-- id: "home"
-  translation: "Home"
-
-- id: "offer"
-  translation: "Offer"
-
-- id: "about"
-  translation: "About"
-
-- id: "faq"
-  translation: "FAQ"
-
-- id: "join-us"
-  translation: "Join us"
-
-- id: "contact"
-  translation: "Contact"
-
-- id: "legal-notice"
-  translation: "Legal Notice"
-
-- id: "privacy-policy"
-  translation: "Privacy Policy"
-
-- id: "lastname"
-  translation: "Last name"
-
-- id: "firstname"
-  translation: "First name"
-
-- id: "business"
-  translation: "Business"
-
-- id: "phone-number"
-  translation: "Phone number"
-
-- id: "linkedin"
-  translation: "LinkedIn profile link"
-
-- id: "email"
-  translation: "Email address"
-
-- id: "message"
-  translation: "Your message"
-
-- id: "send"
-  translation: "Send Now"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "read_more"
-  translation: "Read More"
+home: "Home"
+offer: "Offer"
+about: "About"
+faq: "FAQ"
+join-us: "Join us"
+contact: "Contact"
+legal-notice: "Legal Notice"
+privacy-policy: "Privacy Policy"
+lastname: "Last name"
+firstname: "First name"
+business: "Business"
+phone-number: "Phone number"
+linkedin: "LinkedIn profile link"
+email: "Email address"
+message: "Your message"
+send: "Send Now"
+subscribe: "Subscribe"
+read_more: "Read More"
