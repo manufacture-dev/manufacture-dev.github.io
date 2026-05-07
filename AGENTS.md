@@ -91,11 +91,30 @@ origin/feat/p3-tokens   ──→ PR vers redesign
 Avant de soumettre une PR, vérifier :
 
 - [ ] `hugo build` passe sans erreur ni warning
-- [ ] Comparaison visuelle (avant/après) pour les changements UI
+- [ ] Vérification visuelle locale avec Agent-browser (voir ci-dessous)
 - [ ] Pas de régression Lighthouse (score ≥ 95 sur les 4 catégories)
 - [ ] 0 erreur console dans le navigateur
 - [ ] Accessibilité : titres hiérarchiques, alt sur images, contraste AA
 - [ ] Pas de nouvelle dépendance externe (npm, CDN)
+
+### Vérification visuelle locale (Agent-browser)
+
+Pour tout changement impactant l'UI, lancer le site en local et le vérifier via
+[Agent-browser](https://agent-browser.dev/skills) :
+
+```bash
+# 1. Démarrer le serveur Hugo local (comme indiqué dans le README)
+hugo server -D
+# Le site est disponible sur http://localhost:1313
+```
+
+Puis utiliser la skill Agent-browser pour vérifier les pages clés :
+- Homepage FR : `http://localhost:1313/`
+- Homepage EN : `http://localhost:1313/en/`
+- Une page intérieure (ex. : `http://localhost:1313/offer/`)
+
+Contrôles visuels à effectuer : mise en page cohérente, navigation fonctionnelle,
+images chargées, pas d'élément cassé ou déplacé par rapport à l'état précédent.
 
 ---
 
