@@ -9,7 +9,7 @@ travaillant sur la refonte du site `manufacture.dev`.
 
 | Composant      | Choix retenu                              |
 |----------------|-------------------------------------------|
-| SSG            | Hugo ≥ 0.140 extended                     |
+| SSG            | Hugo ≥ 0.161 extended                     |
 | CSS            | Custom Properties + BEM léger             |
 | JavaScript     | Vanilla JS uniquement                     |
 | Icônes         | SVG inline                                |
