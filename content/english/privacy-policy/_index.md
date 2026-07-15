@@ -138,7 +138,7 @@ Some Cookies do not require your consent, such as:
 
 All other Cookies require your consent. These include some analytical Cookies. You may freely choose to accept or decline the use of these Cookies.
 
-You can accept or refuse these Cookies the first time you browse the Website.
+You can accept or refuse these Cookies the first time you browse the Website and at any time by clicking on the icon in the bottom-left corner of your window.
 
 Your choices to accept or refuse these Cookies will be retained for a period of six (6) months.
 

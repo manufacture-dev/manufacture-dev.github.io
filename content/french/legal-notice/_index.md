@@ -26,7 +26,7 @@ Monsieur **Jean-Louis Rigau**, Président de la société **NORRECRAFT**
 
 ### Prestataire d’hébergement
 
-The website https://manufacture.dev/ is hosted by:
+Le site internet https://manufacture.dev/ est hébergé par :
 
 La société **GitHub B.V.**
 

@@ -114,6 +114,7 @@ id = "GTM-NHGP6S9"
 
 ################################### English language #####################################
 [Languages.en]
+title = "Manufacture | Technical coaching for efficient organizations"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -124,6 +125,7 @@ copyright = "Manufacture"
 
 ################################### French language #####################################
 [Languages.fr]
+title = "Manufacture | Coaching technique au service d’organisations efficientes"
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
